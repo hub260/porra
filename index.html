@@ -306,9 +306,9 @@ async function cargar() {
         const nombre = f['NOMBRE'] || f['Nombre'] || f['nombre'] || '—';
         const equipos = [f['T1'],f['T2'],f['T3'],f['T4'],f['T5']].filter(Boolean);
         const goles   = [f['G1'],f['G2'],f['G3'],f['G4'],f['G5']].filter(Boolean);
-        const ptsEq   = Number(f['PTS BASE EQUIPOS']  || f['Pts Equipos'] || 0);
-        const ptsGol  = Number(f['PTS BASE GOLEG.']   || f['Pts Goleg']   || 0);
-        const total   = Number(f['PUNTOS TOTALES']    || f['Total']       || (ptsEq + ptsGol));
+        const ptsEq   = Number(f['PTS EQUIPOS'] || f['PTS BASE EQUIPOS'] || 0);
+        const ptsGol  = Number(f['PTS GOLEADORES'] || f['PTS BASE GOLEG.']   || 0);
+        const total   = Number(f['PTS TOTALES'] || f['PUNTOS TOTALES']       || (ptsEq + ptsGol));
         return { nombre, equipos, goles, ptsEq, ptsGol, total };
       })
       .sort((a,b) => b.total - a.total);
