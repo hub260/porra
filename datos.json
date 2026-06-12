@@ -1,6 +1,9 @@
 [
   {
     "NOMBRE": "FELIPE",
+    "PTS TOTALES": 5,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 5,
     "T1": "Alemania",
     "T2": "Portugal",
     "T3": "Argentina",
@@ -10,13 +13,13 @@
     "G2": "Oyarzabal",
     "G3": "Jiménez",
     "G4": "Noa Lang",
-    "G5": "Jackson",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Jackson"
   },
   {
     "NOMBRE": "IGOR MENDIA",
+    "PTS TOTALES": 4,
+    "PTS EQUIPOS": 4,
+    "PTS GOLEADORES": 0,
     "T1": "México",
     "T2": "Canadá",
     "T3": "USA",
@@ -26,13 +29,13 @@
     "G2": "Oyarzabal",
     "G3": "Obispo",
     "G4": "Woltemade",
-    "G5": "Karl",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Karl"
   },
   {
     "NOMBRE": "Iker Maiz",
+    "PTS TOTALES": 3,
+    "PTS EQUIPOS": 3,
+    "PTS GOLEADORES": 0,
     "T1": "México",
     "T2": "Alemania",
     "T3": "Holanda",
@@ -42,13 +45,13 @@
     "G2": "Havertz",
     "G3": "Trossard",
     "G4": "Leao",
-    "G5": "Jackson",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Jackson"
   },
   {
     "NOMBRE": "Fernando Labajos",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Suiza",
     "T2": "Senegal",
     "T3": "Turquía",
@@ -58,13 +61,13 @@
     "G2": "Julian Álvarez",
     "G3": "Saka",
     "G4": "Luis Díaz",
-    "G5": "Leao",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Leao"
   },
   {
     "NOMBRE": "ENEKO BARRASA",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Portugal",
     "T3": "Ecuador",
@@ -74,13 +77,13 @@
     "G2": "Pepi",
     "G3": "Bruno Fernandes",
     "G4": "Julian Álvarez",
-    "G5": "Marmoush",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Marmoush"
   },
   {
     "NOMBRE": "Xabier Marchan",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Francia",
     "T2": "Costa de Marfil",
     "T3": "Senegal",
@@ -90,13 +93,13 @@
     "G2": "Leao",
     "G3": "Dzeko",
     "G4": "Jackson",
-    "G5": "Désiré Doué",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Désiré Doué"
   },
   {
     "NOMBRE": "AINTZANE",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Bélgica",
     "T3": "Suecia",
@@ -106,13 +109,13 @@
     "G2": "Julian Álvarez",
     "G3": "Ferran Torres",
     "G4": "Karl",
-    "G5": "Noa Lang",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Noa Lang"
   },
   {
     "NOMBRE": "Naroa Hernandez",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Marruecos",
     "T3": "Colombia",
@@ -122,13 +125,13 @@
     "G2": "Olise",
     "G3": "Julian Álvarez",
     "G4": "Leao",
-    "G5": "Jackson",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Jackson"
   },
   {
     "NOMBRE": "Olatz Iglesias",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Marruecos",
     "T3": "Suecia",
@@ -138,13 +141,13 @@
     "G2": "Isak",
     "G3": "Marmoush",
     "G4": "Pedri",
-    "G5": "Luis Suárez col.",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Luis Suárez col."
   },
   {
     "NOMBRE": "AMAIA MARTIN",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Egipto",
     "T3": "Uruguay",
@@ -154,13 +157,13 @@
     "G2": "De Bruyne",
     "G3": "Leao",
     "G4": "Salah",
-    "G5": "Jackson",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Jackson"
   },
   {
     "NOMBRE": "Jeni Galdos",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Holanda",
     "T2": "Bélgica",
     "T3": "Noruega",
@@ -170,13 +173,13 @@
     "G2": "Foden",
     "G3": "Cody Gakpo",
     "G4": "Julian Álvarez",
-    "G5": "Pedri",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Pedri"
   },
   {
     "NOMBRE": "LUCIA BASTIDA",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Portugal",
     "T3": "Sudáfrica",
@@ -186,13 +189,13 @@
     "G2": "Simons",
     "G3": "Endrick",
     "G4": "Pedri",
-    "G5": "Dzeko",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Dzeko"
   },
   {
     "NOMBRE": "Amaia Imaz",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Holanda",
     "T2": "Portugal",
     "T3": "Ghana",
@@ -202,13 +205,13 @@
     "G2": "Karl",
     "G3": "Cody Gakpo",
     "G4": "Luis Suárez col.",
-    "G5": "Woltemade",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Woltemade"
   },
   {
     "NOMBRE": "JUAN/JULEN",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Inglaterra",
     "T2": "Suiza",
     "T3": "Croacia",
@@ -218,13 +221,13 @@
     "G2": "Cody Gakpo",
     "G3": "Mbappé",
     "G4": "Havertz",
-    "G5": "Marmoush",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Marmoush"
   },
   {
     "NOMBRE": "MARKEL",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Argentina",
     "T2": "Portugal",
     "T3": "Marruecos",
@@ -234,13 +237,13 @@
     "G2": "Ferran Torres",
     "G3": "Havertz",
     "G4": "Olise",
-    "G5": "Leao",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Leao"
   },
   {
     "NOMBRE": "Gaxan Azkona",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "España",
     "T2": "Brasil",
     "T3": "Paraguay",
@@ -250,13 +253,13 @@
     "G2": "Olmo",
     "G3": "Luis Díaz",
     "G4": "Karl",
-    "G5": "Pedri",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Pedri"
   },
   {
     "NOMBRE": "Vanesa Gomez",
+    "PTS TOTALES": 0,
+    "PTS EQUIPOS": 0,
+    "PTS GOLEADORES": 0,
     "T1": "Francia",
     "T2": "Brasil",
     "T3": "Ecuador",
@@ -266,9 +269,6 @@
     "G2": "Julian Álvarez",
     "G3": "Olise",
     "G4": "Pedri",
-    "G5": "Prom.David",
-    "PTS BASE EQUIPOS": null,
-    "PTS BASE GOLEG.": null,
-    "PUNTOS TOTALES": null
+    "G5": "Prom.David"
   }
 ]
