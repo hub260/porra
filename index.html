@@ -6,141 +6,93 @@
 <title>🏆 Porra Mundial 2026</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap');
-
   :root {
-    --verde:   #00843D;
-    --verde-c: #00A94F;
-    --oro:     #C9A84C;
-    --plata:   #9E9E9E;
-    --bronce:  #A05A2C;
-    --fondo:   #0B1120;
-    --card:    #131E2F;
-    --borde:   #1E2E45;
-    --texto:   #E8EDF3;
-    --sub:     #7A8FA6;
+    --verde:#00843D; --verde-c:#00A94F; --oro:#C9A84C; --plata:#9E9E9E; --bronce:#A05A2C;
+    --fondo:#0B1120; --card:#131E2F; --borde:#1E2E45; --texto:#E8EDF3; --sub:#7A8FA6;
   }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body { font-family:'Inter',sans-serif; background:var(--fondo); color:var(--texto); min-height:100vh; }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Inter',sans-serif;background:var(--fondo);color:var(--texto);min-height:100vh;}
 
-  /* HEADER */
-  header {
-    background:linear-gradient(135deg,#062a17 0%,#0B1120 60%);
-    border-bottom:2px solid var(--verde);
-    padding:28px 20px 20px;
-    text-align:center;
-    position:relative;
-    overflow:hidden;
-  }
-  header::before {
-    content:'';position:absolute;inset:0;
-    background:radial-gradient(ellipse at 50% 0%,rgba(0,168,79,.18) 0%,transparent 70%);
-  }
-  header h1 { font-family:'Bebas Neue',sans-serif; font-size:clamp(2rem,7vw,4rem); letter-spacing:.04em; line-height:1; position:relative; color:#fff; }
-  header h1 span { color:var(--oro); }
-  .meta { margin-top:8px; font-size:.78rem; color:var(--sub); position:relative; }
+  header{background:linear-gradient(135deg,#062a17 0%,#0B1120 60%);border-bottom:2px solid var(--verde);padding:28px 20px 20px;text-align:center;position:relative;overflow:hidden;}
+  header::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 0%,rgba(0,168,79,.18) 0%,transparent 70%);}
+  header h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(2rem,7vw,4rem);letter-spacing:.04em;line-height:1;position:relative;color:#fff;}
+  header h1 span{color:var(--oro);}
+  .meta{margin-top:8px;font-size:.78rem;color:var(--sub);position:relative;}
 
-  /* TABS */
-  .tabs { display:flex; justify-content:center; gap:8px; padding:20px 16px 0; }
-  .tab {
-    font-family:'Bebas Neue',sans-serif; font-size:1.1rem; letter-spacing:.08em;
-    padding:10px 28px; border-radius:6px 6px 0 0; cursor:pointer;
-    border:1px solid var(--borde); border-bottom:none;
-    background:var(--card); color:var(--sub); transition:all .2s;
-  }
-  .tab.active { background:var(--fondo); color:var(--texto); border-color:var(--verde); border-bottom:2px solid var(--fondo); }
-  .tab:hover:not(.active) { color:var(--texto); }
+  .tabs{display:flex;justify-content:center;gap:6px;padding:20px 16px 0;flex-wrap:wrap;}
+  .tab{font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.08em;padding:10px 20px;border-radius:6px 6px 0 0;cursor:pointer;border:1px solid var(--borde);border-bottom:none;background:var(--card);color:var(--sub);transition:all .2s;}
+  .tab.active{background:var(--fondo);color:var(--texto);border-color:var(--verde);border-bottom:2px solid var(--fondo);}
+  .tab:hover:not(.active){color:var(--texto);}
+  .tab-line{border-top:1px solid var(--verde);margin:0 16px;}
 
-  .tab-line { border-top:1px solid var(--verde); margin:0 16px; }
+  main{max-width:960px;margin:0 auto;padding:28px 16px 60px;}
+  .tab-content{display:none;}
+  .tab-content.active{display:block;}
 
-  /* MAIN */
-  main { max-width:960px; margin:0 auto; padding:28px 16px 60px; }
-  .tab-content { display:none; }
-  .tab-content.active { display:block; }
-
-  /* ESTADO */
-  #estado { text-align:center; margin-bottom:24px; font-size:.8rem; color:var(--sub); }
-  #estado .dot { display:inline-block; width:8px; height:8px; border-radius:50%; background:var(--verde-c); margin-right:6px; animation:pulse 2s infinite; }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+  #estado{text-align:center;margin-bottom:24px;font-size:.8rem;color:var(--sub);}
+  #estado .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--verde-c);margin-right:6px;animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
   /* PODIO */
-  .podio { display:flex; align-items:flex-end; justify-content:center; gap:12px; margin-bottom:40px; }
-  .podio-item { flex:1; max-width:220px; text-align:center; }
-  .podio-item .nombre { font-weight:700; font-size:.95rem; margin-bottom:6px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .podio-item .pts-big { font-family:'Bebas Neue',sans-serif; font-size:2.2rem; line-height:1; }
-  .podio-item .pedestal { margin-top:10px; border-radius:8px 8px 0 0; display:flex; align-items:center; justify-content:center; font-family:'Bebas Neue',sans-serif; font-size:2.5rem; color:rgba(255,255,255,.15); }
-  .p1 .pedestal { background:linear-gradient(180deg,#b8942b,#8a6c1e); height:120px; }
-  .p2 .pedestal { background:linear-gradient(180deg,#7a7a7a,#555); height:90px; }
-  .p3 .pedestal { background:linear-gradient(180deg,#7a4820,#5a3218); height:70px; }
-  .p1 .pts-big { color:var(--oro); }
-  .p2 .pts-big { color:var(--plata); }
-  .p3 .pts-big { color:var(--bronce); }
+  .podio{display:flex;align-items:flex-end;justify-content:center;gap:12px;margin-bottom:40px;}
+  .podio-item{flex:1;max-width:220px;text-align:center;}
+  .podio-item .nombre{font-weight:700;font-size:.95rem;margin-bottom:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .podio-item .pts-big{font-family:'Bebas Neue',sans-serif;font-size:2.2rem;line-height:1;}
+  .podio-item .pedestal{margin-top:10px;border-radius:8px 8px 0 0;display:flex;align-items:center;justify-content:center;font-family:'Bebas Neue',sans-serif;font-size:2.5rem;color:rgba(255,255,255,.15);}
+  .p1 .pedestal{background:linear-gradient(180deg,#b8942b,#8a6c1e);height:120px;}
+  .p2 .pedestal{background:linear-gradient(180deg,#7a7a7a,#555);height:90px;}
+  .p3 .pedestal{background:linear-gradient(180deg,#7a4820,#5a3218);height:70px;}
+  .p1 .pts-big{color:var(--oro);}
+  .p2 .pts-big{color:var(--plata);}
+  .p3 .pts-big{color:var(--bronce);}
 
-  /* SECTION TITLE */
-  .section-title { font-family:'Bebas Neue',sans-serif; font-size:1.4rem; letter-spacing:.08em; color:var(--sub); border-bottom:1px solid var(--borde); padding-bottom:8px; margin-bottom:16px; }
+  .section-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;letter-spacing:.08em;color:var(--sub);border-bottom:1px solid var(--borde);padding-bottom:8px;margin-bottom:16px;}
 
-  /* TABLA CLASIFICACIÓN */
-  table { width:100%; border-collapse:collapse; font-size:.88rem; }
-  thead th { text-align:left; padding:10px 12px; color:var(--sub); font-size:.72rem; font-weight:600; letter-spacing:.08em; text-transform:uppercase; border-bottom:1px solid var(--borde); }
-  thead th.r { text-align:right; }
-  tbody tr { border-bottom:1px solid var(--borde); transition:background .15s; }
-  tbody tr:hover { background:rgba(255,255,255,.03); }
-  td { padding:13px 12px; vertical-align:middle; }
-  td.r { text-align:right; }
-  .pos { font-family:'Bebas Neue',sans-serif; font-size:1.1rem; color:var(--sub); width:32px; }
-  .pos.top1 { color:var(--oro); }
-  .pos.top2 { color:var(--plata); }
-  .pos.top3 { color:var(--bronce); }
-  .nombre-td { font-weight:600; }
-  .equipos-td { font-size:.75rem; color:var(--sub); line-height:1.5; }
-  .eq-tag { display:inline-block; background:var(--borde); border-radius:4px; padding:1px 5px; margin:1px 2px 1px 0; font-size:.7rem; }
-  .pts-td { font-family:'Bebas Neue',sans-serif; font-size:1.4rem; color:var(--verde-c); white-space:nowrap; }
+  table{width:100%;border-collapse:collapse;font-size:.88rem;}
+  thead th{text-align:left;padding:10px 12px;color:var(--sub);font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid var(--borde);}
+  thead th.r{text-align:right;}
+  tbody tr{border-bottom:1px solid var(--borde);transition:background .15s;}
+  tbody tr:hover{background:rgba(255,255,255,.03);}
+  td{padding:13px 12px;vertical-align:middle;}
+  td.r{text-align:right;}
+  .pos{font-family:'Bebas Neue',sans-serif;font-size:1.1rem;color:var(--sub);width:32px;}
+  .pos.top1{color:var(--oro);}
+  .pos.top2{color:var(--plata);}
+  .pos.top3{color:var(--bronce);}
+  .nombre-td{font-weight:600;}
+  .equipos-td{font-size:.75rem;color:var(--sub);line-height:1.5;}
+  .eq-tag{display:inline-block;background:var(--borde);border-radius:4px;padding:1px 5px;margin:1px 2px 1px 0;font-size:.7rem;}
+  .pts-td{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;color:var(--verde-c);white-space:nowrap;}
 
   /* RESULTADOS */
-  .fase-header {
-    font-family:'Bebas Neue',sans-serif; font-size:1rem; letter-spacing:.1em;
-    color:var(--verde-c); padding:14px 0 6px; margin-top:8px;
-    border-bottom:1px solid var(--borde);
-  }
-  .partido {
-    display:flex; align-items:center; justify-content:space-between;
-    padding:12px 8px; border-bottom:1px solid var(--borde);
-    transition:background .15s; gap:8px;
-  }
-  .partido:hover { background:rgba(255,255,255,.03); }
-  .partido .fecha { font-size:.72rem; color:var(--sub); min-width:70px; }
-  .partido .equipos { flex:1; display:flex; align-items:center; justify-content:center; gap:10px; font-weight:600; font-size:.92rem; }
-  .partido .equipo-local { text-align:right; flex:1; }
-  .partido .equipo-visit { text-align:left; flex:1; }
-  .partido .marcador {
-    font-family:'Bebas Neue',sans-serif; font-size:1.5rem; letter-spacing:.05em;
-    min-width:70px; text-align:center; color:#fff;
-  }
-  .partido .marcador.pendiente { color:var(--sub); font-size:1rem; }
-  .badge {
-    display:inline-block; font-size:.65rem; font-weight:700; padding:2px 7px;
-    border-radius:10px; text-transform:uppercase; letter-spacing:.05em;
-  }
-  .badge-fin { background:rgba(0,169,79,.15); color:var(--verde-c); }
-  .badge-hoy { background:rgba(201,168,76,.2); color:var(--oro); }
-  .badge-prox { background:rgba(255,255,255,.06); color:var(--sub); }
+  .fase-header{font-family:'Bebas Neue',sans-serif;font-size:1rem;letter-spacing:.1em;color:var(--verde-c);padding:14px 0 6px;margin-top:8px;border-bottom:1px solid var(--borde);}
+  .partido{display:flex;align-items:center;justify-content:space-between;padding:12px 8px;border-bottom:1px solid var(--borde);transition:background .15s;gap:8px;}
+  .partido:hover{background:rgba(255,255,255,.03);}
+  .partido .equipos{flex:1;display:flex;align-items:center;justify-content:center;gap:10px;font-weight:600;font-size:.92rem;}
+  .partido .equipo-local{text-align:right;flex:1;}
+  .partido .equipo-visit{text-align:left;flex:1;}
+  .partido .marcador{font-family:'Bebas Neue',sans-serif;font-size:1.5rem;letter-spacing:.05em;min-width:70px;text-align:center;color:#fff;}
+  .partido .marcador.pendiente{color:var(--sub);font-size:1rem;}
+  .badge{display:inline-block;font-size:.65rem;font-weight:700;padding:2px 7px;border-radius:10px;text-transform:uppercase;letter-spacing:.05em;}
+  .badge-fin{background:rgba(0,169,79,.15);color:var(--verde-c);}
+  .badge-hoy{background:rgba(201,168,76,.2);color:var(--oro);}
+  .badge-prox{background:rgba(255,255,255,.06);color:var(--sub);}
+  .filtros{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;}
+  .filtro-btn{font-size:.78rem;font-weight:600;padding:6px 14px;border-radius:20px;border:1px solid var(--borde);background:transparent;color:var(--sub);cursor:pointer;transition:all .15s;}
+  .filtro-btn.on{background:var(--verde);border-color:var(--verde);color:#fff;}
 
-  /* FILTROS */
-  .filtros { display:flex; gap:8px; margin-bottom:20px; flex-wrap:wrap; }
-  .filtro-btn {
-    font-size:.78rem; font-weight:600; padding:6px 14px; border-radius:20px;
-    border:1px solid var(--borde); background:transparent; color:var(--sub);
-    cursor:pointer; transition:all .15s;
-  }
-  .filtro-btn.on { background:var(--verde); border-color:var(--verde); color:#fff; }
+  /* BARRA DE PROGRESO */
+  .barra-wrap{display:flex;align-items:center;gap:10px;margin-bottom:4px;}
+  .barra-bg{flex:1;height:6px;background:var(--borde);border-radius:3px;overflow:hidden;}
+  .barra-fill{height:100%;background:var(--verde-c);border-radius:3px;transition:width .4s;}
+  .sub-txt{font-size:.72rem;color:var(--sub);}
 
   /* SKELETON */
-  .skel { background:linear-gradient(90deg,var(--borde) 25%,#1e3050 50%,var(--borde) 75%); background-size:200% 100%; animation:shimmer 1.4s infinite; border-radius:4px; height:14px; display:inline-block; }
-  @keyframes shimmer { 0%{background-position:200%} 100%{background-position:-200%} }
+  .skel{background:linear-gradient(90deg,var(--borde) 25%,#1e3050 50%,var(--borde) 75%);background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:4px;height:14px;display:inline-block;}
+  @keyframes shimmer{0%{background-position:200%}100%{background-position:-200%}}
+  .error-box{background:rgba(180,30,30,.12);border:1px solid rgba(180,30,30,.4);border-radius:10px;padding:20px;text-align:center;color:#e07070;font-size:.9rem;}
 
-  /* ERROR */
-  .error-box { background:rgba(180,30,30,.12); border:1px solid rgba(180,30,30,.4); border-radius:10px; padding:20px; text-align:center; color:#e07070; font-size:.9rem; }
-
-  footer { text-align:center; color:var(--sub); font-size:.72rem; padding:20px; border-top:1px solid var(--borde); }
+  footer{text-align:center;color:var(--sub);font-size:.72rem;padding:20px;border-top:1px solid var(--borde);}
 </style>
 </head>
 <body>
@@ -151,44 +103,68 @@
 </header>
 
 <div class="tabs">
-  <div class="tab active" onclick="cambiarTab('clasificacion')">🏅 Clasificación</div>
-  <div class="tab" onclick="cambiarTab('resultados')">⚽ Resultados</div>
+  <div class="tab active"  onclick="cambiarTab('clasificacion')">🏅 Clasificación</div>
+  <div class="tab"         onclick="cambiarTab('resultados')">⚽ Resultados</div>
+  <div class="tab"         onclick="cambiarTab('goleadores')">👟 Goleadores</div>
+  <div class="tab"         onclick="cambiarTab('equipos')">🌍 Equipos</div>
 </div>
 <div class="tab-line"></div>
 
 <main>
-
   <div id="estado"><span class="dot"></span><span id="estado-texto">Cargando…</span></div>
 
-  <!-- TAB CLASIFICACIÓN -->
+  <!-- CLASIFICACIÓN -->
   <div class="tab-content active" id="tab-clasificacion">
     <div class="podio" id="podio" style="display:none"></div>
     <p class="section-title">Clasificación completa</p>
     <div id="error-clas"></div>
     <table>
-      <thead>
-        <tr>
-          <th>#</th><th>Participante</th><th>Equipos elegidos</th><th>Goleadores</th>
-          <th class="r">Pts eq.</th><th class="r">Pts gol.</th><th class="r">Total</th>
-        </tr>
-      </thead>
+      <thead><tr>
+        <th>#</th><th>Participante</th><th>Equipos elegidos</th><th>Goleadores</th>
+        <th class="r">Pts eq.</th><th class="r">Pts gol.</th><th class="r">Total</th>
+      </tr></thead>
       <tbody id="tbody-clas">
         <tr><td><span class="skel" style="width:20px"></span></td><td><span class="skel" style="width:120px"></span></td><td><span class="skel" style="width:180px"></span></td><td><span class="skel" style="width:140px"></span></td><td></td><td></td><td></td></tr>
         <tr><td><span class="skel" style="width:20px"></span></td><td><span class="skel" style="width:90px"></span></td><td><span class="skel" style="width:200px"></span></td><td><span class="skel" style="width:160px"></span></td><td></td><td></td><td></td></tr>
-        <tr><td><span class="skel" style="width:20px"></span></td><td><span class="skel" style="width:110px"></span></td><td><span class="skel" style="width:170px"></span></td><td><span class="skel" style="width:130px"></span></td><td></td><td></td><td></td></tr>
       </tbody>
     </table>
   </div>
 
-  <!-- TAB RESULTADOS -->
+  <!-- RESULTADOS -->
   <div class="tab-content" id="tab-resultados">
     <div class="filtros">
-      <button class="filtro-btn on" onclick="filtrar('todos')">Todos</button>
-      <button class="filtro-btn" onclick="filtrar('jugados')">Jugados</button>
-      <button class="filtro-btn" onclick="filtrar('pendientes')">Pendientes</button>
+      <button class="filtro-btn on" onclick="filtrar(this,'todos')">Todos</button>
+      <button class="filtro-btn"    onclick="filtrar(this,'jugados')">Jugados</button>
+      <button class="filtro-btn"    onclick="filtrar(this,'pendientes')">Pendientes</button>
     </div>
     <div id="error-res"></div>
     <div id="lista-resultados"></div>
+  </div>
+
+  <!-- GOLEADORES -->
+  <div class="tab-content" id="tab-goleadores">
+    <p class="section-title">Goleadores del torneo</p>
+    <div id="error-gol"></div>
+    <table>
+      <thead><tr>
+        <th>#</th><th>Goleador</th><th>Equipo</th>
+        <th class="r">Coste</th><th class="r">Goles</th><th class="r">Pts ganados</th>
+      </tr></thead>
+      <tbody id="tbody-gol"></tbody>
+    </table>
+  </div>
+
+  <!-- EQUIPOS -->
+  <div class="tab-content" id="tab-equipos">
+    <p class="section-title">Puntos por equipo</p>
+    <div id="error-eq"></div>
+    <table>
+      <thead><tr>
+        <th>#</th><th>Equipo</th><th>Coste base</th>
+        <th class="r">V.Grupos</th><th class="r">E.Grupos</th><th class="r">Rondas</th><th class="r">Total</th>
+      </tr></thead>
+      <tbody id="tbody-eq"></tbody>
+    </table>
   </div>
 
 </main>
@@ -200,9 +176,9 @@ const MEDAL = ['🥇','🥈','🥉'];
 let filtroActivo = 'todos';
 let partidosGlobal = [];
 
-// ── TABS ──
 function cambiarTab(tab) {
-  document.querySelectorAll('.tab').forEach((t,i) => t.classList.toggle('active', ['clasificacion','resultados'][i] === tab));
+  const nombres = ['clasificacion','resultados','goleadores','equipos'];
+  document.querySelectorAll('.tab').forEach((t,i) => t.classList.toggle('active', nombres[i] === tab));
   document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
   document.getElementById('tab-' + tab).classList.add('active');
 }
@@ -213,39 +189,34 @@ async function cargarClasificacion() {
     const res = await fetch('datos.json?t=' + Date.now());
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-
-    const filas = data
-      .filter(f => f['NOMBRE'])
-      .map(f => ({
-        nombre:  f['NOMBRE'],
-        equipos: [f['T1'],f['T2'],f['T3'],f['T4'],f['T5']].filter(Boolean),
-        goles:   [f['G1'],f['G2'],f['G3'],f['G4'],f['G5']].filter(Boolean),
-        ptsEq:   Number(f['PTS EQUIPOS'] || 0),
-        ptsGol:  Number(f['PTS GOLEADORES'] || 0),
-        total:   Number(f['PTS TOTALES'] || 0),
-      }))
-      .sort((a,b) => b.total - a.total);
+    const filas = data.filter(f => f['NOMBRE']).map(f => ({
+      nombre:  f['NOMBRE'],
+      equipos: [f['T1'],f['T2'],f['T3'],f['T4'],f['T5']].filter(Boolean),
+      goles:   [f['G1'],f['G2'],f['G3'],f['G4'],f['G5']].filter(Boolean),
+      ptsEq:   Number(f['PTS EQUIPOS']||0),
+      ptsGol:  Number(f['PTS GOLEADORES']||0),
+      total:   Number(f['PTS TOTALES']||0),
+    })).sort((a,b) => b.total - a.total);
 
     if (!filas.length) throw new Error('Sin datos');
-
     document.getElementById('estado-texto').textContent =
       `${filas.length} participantes · actualizado ${new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'})}`;
 
-    // Podio
     const podio = document.getElementById('podio');
-    const order = filas.length >= 3 ? [filas[1],filas[0],filas[2]] : filas.slice(0,3);
-    const clases  = ['p2','p1','p3'];
-    const heights = [90,120,70];
-    const medals  = [1,0,2];
-    podio.innerHTML = order.map((p,i) => `
-      <div class="podio-item ${clases[i]}">
-        <div class="nombre">${MEDAL[medals[i]]} ${p.nombre}</div>
-        <div class="pts-big">${p.total} pts</div>
-        <div class="pedestal" style="height:${heights[i]}px">${medals[i]+1}</div>
-      </div>`).join('');
-    podio.style.display = 'flex';
+    if (filas.length >= 3) {
+      const order   = [filas[1],filas[0],filas[2]];
+      const clases  = ['p2','p1','p3'];
+      const heights = [90,120,70];
+      const medals  = [1,0,2];
+      podio.innerHTML = order.map((p,i) => `
+        <div class="podio-item ${clases[i]}">
+          <div class="nombre">${MEDAL[medals[i]]} ${p.nombre}</div>
+          <div class="pts-big">${p.total} pts</div>
+          <div class="pedestal" style="height:${heights[i]}px">${medals[i]+1}</div>
+        </div>`).join('');
+      podio.style.display = 'flex';
+    }
 
-    // Tabla
     document.getElementById('tbody-clas').innerHTML = filas.map((p,i) => {
       const pc = i===0?'top1':i===1?'top2':i===2?'top3':'';
       const eqTags = p.equipos.map(e=>`<span class="eq-tag">${e}</span>`).join('');
@@ -259,14 +230,11 @@ async function cargarClasificacion() {
         <td class="pts-td r" style="color:#fff">${p.total}</td>
       </tr>`;
     }).join('');
-
     document.getElementById('last-update').textContent =
       new Date().toLocaleString('es-ES',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
-
   } catch(e) {
-    document.getElementById('tbody-clas').innerHTML = '';
-    document.getElementById('error-clas').innerHTML =
-      `<div class="error-box">⚠️ No se pudo cargar datos.json<br><small>${e.message}</small></div>`;
+    document.getElementById('tbody-clas').innerHTML='';
+    document.getElementById('error-clas').innerHTML=`<div class="error-box">⚠️ No se pudo cargar datos.json<br><small>${e.message}</small></div>`;
   }
 }
 
@@ -278,52 +246,43 @@ async function cargarResultados() {
     partidosGlobal = await res.json();
     renderResultados();
   } catch(e) {
-    document.getElementById('error-res').innerHTML =
-      `<div class="error-box">⚠️ No se pudo cargar resultados.json<br><small>${e.message}</small></div>`;
+    document.getElementById('error-res').innerHTML=`<div class="error-box">⚠️ No se pudo cargar resultados.json<br><small>${e.message}</small></div>`;
   }
 }
 
-function filtrar(tipo) {
+function filtrar(btn, tipo) {
   filtroActivo = tipo;
   document.querySelectorAll('.filtro-btn').forEach(b => b.classList.remove('on'));
-  event.target.classList.add('on');
+  btn.classList.add('on');
   renderResultados();
 }
 
 function renderResultados() {
   const hoy = new Date().toISOString().slice(0,10);
   let partidos = partidosGlobal;
-  if (filtroActivo === 'jugados')    partidos = partidos.filter(p => p.estado === 'FINISHED');
-  if (filtroActivo === 'pendientes') partidos = partidos.filter(p => p.estado !== 'FINISHED');
+  if (filtroActivo==='jugados')    partidos = partidos.filter(p => p.estado==='FINISHED');
+  if (filtroActivo==='pendientes') partidos = partidos.filter(p => p.estado!=='FINISHED');
 
-  // Agrupar por fase
   const fases = {};
-  partidos.forEach(p => {
-    if (!fases[p.fase]) fases[p.fase] = [];
-    fases[p.fase].push(p);
-  });
+  partidos.forEach(p => { if (!fases[p.fase]) fases[p.fase]=[]; fases[p.fase].push(p); });
 
-  const jugados   = partidosGlobal.filter(p => p.estado === 'FINISHED').length;
-  const total     = partidosGlobal.length;
-
-  let html = `<p style="font-size:.8rem;color:var(--sub);margin-bottom:16px">${jugados} de ${total} partidos jugados</p>`;
+  const jugados = partidosGlobal.filter(p => p.estado==='FINISHED').length;
+  let html = `<p style="font-size:.8rem;color:var(--sub);margin-bottom:16px">${jugados} de ${partidosGlobal.length} partidos jugados</p>`;
 
   for (const [fase, lista] of Object.entries(fases)) {
     html += `<div class="fase-header">${fase}</div>`;
     lista.forEach(p => {
-      const esHoy     = p.fecha === hoy;
-      const jugado    = p.estado === 'FINISHED';
-      const marcador  = jugado
+      const jugado = p.estado==='FINISHED';
+      const esHoy  = p.fecha===hoy;
+      const marcador = jugado
         ? `<span class="marcador">${p.gol_l} - ${p.gol_v}</span>`
-        : `<span class="marcador pendiente">${esHoy ? '🔴 HOY' : p.fecha.slice(5).replace('-','/')}</span>`;
+        : `<span class="marcador pendiente">${esHoy?'🔴 HOY':p.fecha.slice(5).replace('-','/')}</span>`;
       const badge = jugado
         ? `<span class="badge badge-fin">FIN</span>`
-        : esHoy
-          ? `<span class="badge badge-hoy">HOY</span>`
-          : `<span class="badge badge-prox">${p.fecha.slice(5).replace('-','/')}</span>`;
-
+        : esHoy ? `<span class="badge badge-hoy">HOY</span>`
+        : `<span class="badge badge-prox">${p.fecha.slice(5).replace('-','/')}</span>`;
       html += `<div class="partido">
-        <div class="fecha">${badge}</div>
+        <div style="min-width:54px">${badge}</div>
         <div class="equipos">
           <span class="equipo-local">${p.local}</span>
           ${marcador}
@@ -332,13 +291,74 @@ function renderResultados() {
       </div>`;
     });
   }
-
   document.getElementById('lista-resultados').innerHTML = html;
 }
 
-// Iniciar
+// ── GOLEADORES ──
+async function cargarGoleadores() {
+  try {
+    const res = await fetch('goleadores.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const maxPts = data[0]?.puntos || 1;
+
+    document.getElementById('tbody-gol').innerHTML = data.map((g,i) => {
+      const pc = i===0?'top1':i===1?'top2':i===2?'top3':'';
+      const pct = Math.round((g.puntos/maxPts)*100);
+      return `<tr>
+        <td class="pos ${pc}">${i+1}</td>
+        <td class="nombre-td">
+          ${g.goleador}
+          <div class="barra-wrap" style="margin-top:4px">
+            <div class="barra-bg"><div class="barra-fill" style="width:${pct}%"></div></div>
+          </div>
+        </td>
+        <td class="sub-txt">${g.equipo}</td>
+        <td class="pts-td r" style="color:var(--sub);font-size:1rem">${g.coste}</td>
+        <td class="pts-td r">${g.goles}</td>
+        <td class="pts-td r" style="color:#fff">${g.puntos}</td>
+      </tr>`;
+    }).join('');
+  } catch(e) {
+    document.getElementById('error-gol').innerHTML=`<div class="error-box">⚠️ No se pudo cargar goleadores.json<br><small>${e.message}</small></div>`;
+  }
+}
+
+// ── EQUIPOS ──
+async function cargarEquipos() {
+  try {
+    const res = await fetch('equipos.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const maxPts = data[0]?.total || 1;
+
+    document.getElementById('tbody-eq').innerHTML = data.map((e,i) => {
+      const pc = i===0?'top1':i===1?'top2':i===2?'top3':'';
+      const pct = Math.round((e.total/maxPts)*100);
+      return `<tr>
+        <td class="pos ${pc}">${i+1}</td>
+        <td class="nombre-td">
+          ${e.equipo}
+          <div class="barra-wrap" style="margin-top:4px">
+            <div class="barra-bg"><div class="barra-fill" style="width:${pct}%"></div></div>
+          </div>
+        </td>
+        <td class="sub-txt">${e.base} pts</td>
+        <td class="pts-td r">${e.v_grupos||'—'}</td>
+        <td class="pts-td r">${e.e_grupos||'—'}</td>
+        <td class="pts-td r">${e.rondas||'—'}</td>
+        <td class="pts-td r" style="color:#fff">${e.total}</td>
+      </tr>`;
+    }).join('');
+  } catch(e) {
+    document.getElementById('error-eq').innerHTML=`<div class="error-box">⚠️ No se pudo cargar equipos.json<br><small>${e.message}</small></div>`;
+  }
+}
+
 cargarClasificacion();
 cargarResultados();
+cargarGoleadores();
+cargarEquipos();
 </script>
 </body>
 </html>
