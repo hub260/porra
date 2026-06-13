@@ -49,8 +49,8 @@
   },
   {
     "NOMBRE": "Fernando L",
-    "PTS TOTALES": 0,
-    "PTS EQUIPOS": 0,
+    "PTS TOTALES": 3,
+    "PTS EQUIPOS": 3,
     "PTS GOLEADORES": 0,
     "T1": "Suiza",
     "T2": "Senegal",
@@ -62,6 +62,22 @@
     "G3": "Saka",
     "G4": "Luis Díaz",
     "G5": "Leao"
+  },
+  {
+    "NOMBRE": "JUAN/JULEN",
+    "PTS TOTALES": 3,
+    "PTS EQUIPOS": 3,
+    "PTS GOLEADORES": 0,
+    "T1": "Inglaterra",
+    "T2": "Suiza",
+    "T3": "Croacia",
+    "T4": "Jordania",
+    "T5": "Chequia",
+    "G1": "Pedri",
+    "G2": "Cody Gakpo",
+    "G3": "Mbappé",
+    "G4": "Havertz",
+    "G5": "Marmoush"
   },
   {
     "NOMBRE": "ENEKO B",
@@ -206,22 +222,6 @@
     "G3": "Cody Gakpo",
     "G4": "Luis Suárez col.",
     "G5": "Woltemade"
-  },
-  {
-    "NOMBRE": "JUAN/JULEN",
-    "PTS TOTALES": 0,
-    "PTS EQUIPOS": 0,
-    "PTS GOLEADORES": 0,
-    "T1": "Inglaterra",
-    "T2": "Suiza",
-    "T3": "Croacia",
-    "T4": "Jordania",
-    "T5": "Chequia",
-    "G1": "Pedri",
-    "G2": "Cody Gakpo",
-    "G3": "Mbappé",
-    "G4": "Havertz",
-    "G5": "Marmoush"
   },
   {
     "NOMBRE": "MARKEL",
