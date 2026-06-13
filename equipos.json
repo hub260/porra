@@ -9,6 +9,15 @@
     "total": 3
   },
   {
+    "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
     "equipo": "USA",
     "base": 5,
     "v_grupos": 1,
@@ -145,15 +154,6 @@
   },
   {
     "equipo": "Japón",
-    "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Suiza",
     "base": 5,
     "v_grupos": 0,
     "e_grupos": 0,
