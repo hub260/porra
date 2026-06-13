@@ -43,10 +43,10 @@
     "fecha": "2026-06-13",
     "fase": "Fase de Grupos",
     "local": "Qatar",
-    "gol_l": 0,
+    "gol_l": 1,
     "gol_v": 1,
     "visitante": "Suiza",
-    "ganador": "Suiza",
+    "ganador": "EMPATE",
     "estado": "IN_PLAY"
   },
   {
