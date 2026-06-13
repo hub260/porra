@@ -1,5 +1,21 @@
 [
   {
+    "NOMBRE": "IGOR M",
+    "PTS TOTALES": 7,
+    "PTS EQUIPOS": 7,
+    "PTS GOLEADORES": 0,
+    "T1": "México",
+    "T2": "Canadá",
+    "T3": "USA",
+    "T4": "Portugal",
+    "T5": "Uzbekistán",
+    "G1": "Olise",
+    "G2": "Oyarzabal",
+    "G3": "Obispo",
+    "G4": "Woltemade",
+    "G5": "Karl"
+  },
+  {
     "NOMBRE": "FELIPE",
     "PTS TOTALES": 5,
     "PTS EQUIPOS": 0,
@@ -14,22 +30,6 @@
     "G3": "Jiménez",
     "G4": "Noa Lang",
     "G5": "Jackson"
-  },
-  {
-    "NOMBRE": "IGOR M",
-    "PTS TOTALES": 4,
-    "PTS EQUIPOS": 4,
-    "PTS GOLEADORES": 0,
-    "T1": "México",
-    "T2": "Canadá",
-    "T3": "USA",
-    "T4": "Portugal",
-    "T5": "Uzbekistán",
-    "G1": "Olise",
-    "G2": "Oyarzabal",
-    "G3": "Obispo",
-    "G4": "Woltemade",
-    "G5": "Karl"
   },
   {
     "NOMBRE": "Iker M",
