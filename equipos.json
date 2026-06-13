@@ -1,0 +1,434 @@
+[
+  {
+    "equipo": "México",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "USA",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Corea del Sur",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Bosnia",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "Canadá",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "España",
+    "base": 10,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Francia",
+    "base": 10,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Inglaterra",
+    "base": 9,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Argentina",
+    "base": 8,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Brasil",
+    "base": 8,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Alemania",
+    "base": 7,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Portugal",
+    "base": 7,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Holanda",
+    "base": 6,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Bélgica",
+    "base": 6,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Noruega",
+    "base": 6,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Turquía",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Japón",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Croacia",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Colombia",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Marruecos",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Uruguay",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Argelia",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Escocia",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Costa de Marfil",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Austria",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Suecia",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Senegal",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Egipto",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Ecuador",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Chequia",
+    "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "R.D. Congo",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Sudáfrica",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Australia",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Ghana",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Túnez",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Paraguay",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Arabia Saudí",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Irán",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Uzbekistán",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Cabo Verde",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Qatar",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Nueva Zelanda",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Irak",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Panamá",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Jordania",
+    "base": 1,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Haití",
+    "base": 1,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  },
+  {
+    "equipo": "Curazao",
+    "base": 1,
+    "v_grupos": 0,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 0
+  }
+]
