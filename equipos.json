@@ -9,15 +9,6 @@
     "total": 3
   },
   {
-    "equipo": "Suiza",
-    "base": 5,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
     "equipo": "USA",
     "base": 5,
     "v_grupos": 1,
@@ -36,6 +27,15 @@
     "total": 3
   },
   {
+    "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
     "equipo": "Bosnia",
     "base": 4,
     "v_grupos": 0,
@@ -47,6 +47,15 @@
   {
     "equipo": "Canadá",
     "base": 4,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "Qatar",
+    "base": 2,
     "v_grupos": 0,
     "e_grupos": 1,
     "rondas": 0,
@@ -361,15 +370,6 @@
   },
   {
     "equipo": "Cabo Verde",
-    "base": 2,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Qatar",
     "base": 2,
     "v_grupos": 0,
     "e_grupos": 0,
