@@ -27,7 +27,43 @@
     "total": 3
   },
   {
+    "equipo": "Escocia",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Australia",
+    "base": 3,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Brasil",
+    "base": 8,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
     "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "Marruecos",
     "base": 5,
     "v_grupos": 0,
     "e_grupos": 1,
@@ -91,15 +127,6 @@
   },
   {
     "equipo": "Argentina",
-    "base": 8,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Brasil",
     "base": 8,
     "v_grupos": 0,
     "e_grupos": 0,
@@ -189,15 +216,6 @@
     "total": 0
   },
   {
-    "equipo": "Marruecos",
-    "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Uruguay",
     "base": 5,
     "v_grupos": 0,
@@ -208,15 +226,6 @@
   },
   {
     "equipo": "Argelia",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Escocia",
     "base": 4,
     "v_grupos": 0,
     "e_grupos": 0,
@@ -298,15 +307,6 @@
   },
   {
     "equipo": "Sudáfrica",
-    "base": 3,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Australia",
     "base": 3,
     "v_grupos": 0,
     "e_grupos": 0,
