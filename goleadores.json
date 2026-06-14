@@ -7,6 +7,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Vinicius",
+    "equipo": "Brasil",
+    "coste": 9,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Quiñones",
     "equipo": "México",
     "coste": 7,
@@ -72,13 +79,6 @@
   {
     "goleador": "Lautaro",
     "equipo": "Argentina",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Vinicius",
-    "equipo": "Brasil",
     "coste": 9,
     "goles": 0,
     "puntos": 0
