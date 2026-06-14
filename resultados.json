@@ -83,11 +83,11 @@
     "fecha": "2026-06-14",
     "fase": "Fase de Grupos",
     "local": "Alemania",
-    "gol_l": 3,
+    "gol_l": 4,
     "gol_v": 1,
     "visitante": "Curazao",
     "ganador": "Alemania",
-    "estado": "PAUSED"
+    "estado": "IN_PLAY"
   },
   {
     "fecha": "2026-06-14",
