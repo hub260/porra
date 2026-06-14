@@ -169,7 +169,10 @@
 
 </main>
 
-<footer>Actualizado con datos del Mundial — <span id="last-update"></span></footer>
+<footer>
+  <img src="logo.png" style="height:16px;border-radius:50%;vertical-align:middle;margin-right:6px;opacity:.8">
+  <span id="last-update"></span>
+</footer>
 
 <script>
 const MEDAL = ['🥇','🥈','🥉'];
@@ -188,7 +191,9 @@ async function cargarClasificacion() {
   try {
     const res = await fetch('datos.json?t=' + Date.now());
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
+    const json = await res.json();
+    const actualizacion = json.actualizacion || '';
+    const data = json.participantes || json;
     const filas = data.filter(f => f['NOMBRE']).map(f => ({
       nombre:  f['NOMBRE'],
       equipos: [f['T1'],f['T2'],f['T3'],f['T4'],f['T5']].filter(Boolean),
@@ -230,7 +235,7 @@ async function cargarClasificacion() {
         <td class="pts-td r" style="color:#fff">${p.total}</td>
       </tr>`;
     }).join('');
-    document.getElementById('last-update').textContent =
+    document.getElementById('last-update').textContent = actualizacion ||
       new Date().toLocaleString('es-ES',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
   } catch(e) {
     document.getElementById('tbody-clas').innerHTML='';
