@@ -1,11 +1,11 @@
 {
-  "actualizacion": "14/06/2026 20:36",
+  "actualizacion": "14/06/2026 21:05",
   "participantes": [
     {
       "NOMBRE": "Iker M",
-      "PTS TOTALES": 11,
+      "PTS TOTALES": 16,
       "PTS EQUIPOS": 6,
-      "PTS GOLEADORES": 5,
+      "PTS GOLEADORES": 10,
       "T1": "México",
       "T2": "Alemania",
       "T3": "Holanda",
@@ -16,6 +16,38 @@
       "G3": "Trossard",
       "G4": "Leao",
       "G5": "Jackson"
+    },
+    {
+      "NOMBRE": "JUAN/JULEN",
+      "PTS TOTALES": 11,
+      "PTS EQUIPOS": 1,
+      "PTS GOLEADORES": 10,
+      "T1": "Inglaterra",
+      "T2": "Suiza",
+      "T3": "Croacia",
+      "T4": "Jordania",
+      "T5": "Chequia",
+      "G1": "Pedri",
+      "G2": "Cody Gakpo",
+      "G3": "Mbappé",
+      "G4": "Havertz",
+      "G5": "Marmoush"
+    },
+    {
+      "NOMBRE": "MARKEL",
+      "PTS TOTALES": 11,
+      "PTS EQUIPOS": 1,
+      "PTS GOLEADORES": 10,
+      "T1": "Argentina",
+      "T2": "Portugal",
+      "T3": "Marruecos",
+      "T4": "Arabia Saudí",
+      "T5": "Haití",
+      "G1": "Julian Álvarez",
+      "G2": "Ferran Torres",
+      "G3": "Havertz",
+      "G4": "Olise",
+      "G5": "Leao"
     },
     {
       "NOMBRE": "FELIPE",
@@ -48,38 +80,6 @@
       "G3": "Obispo",
       "G4": "Woltemade",
       "G5": "Karl"
-    },
-    {
-      "NOMBRE": "JUAN/JULEN",
-      "PTS TOTALES": 6,
-      "PTS EQUIPOS": 1,
-      "PTS GOLEADORES": 5,
-      "T1": "Inglaterra",
-      "T2": "Suiza",
-      "T3": "Croacia",
-      "T4": "Jordania",
-      "T5": "Chequia",
-      "G1": "Pedri",
-      "G2": "Cody Gakpo",
-      "G3": "Mbappé",
-      "G4": "Havertz",
-      "G5": "Marmoush"
-    },
-    {
-      "NOMBRE": "MARKEL",
-      "PTS TOTALES": 6,
-      "PTS EQUIPOS": 1,
-      "PTS GOLEADORES": 5,
-      "T1": "Argentina",
-      "T2": "Portugal",
-      "T3": "Marruecos",
-      "T4": "Arabia Saudí",
-      "T5": "Haití",
-      "G1": "Julian Álvarez",
-      "G2": "Ferran Torres",
-      "G3": "Havertz",
-      "G4": "Olise",
-      "G5": "Leao"
     },
     {
       "NOMBRE": "Amaia I",
