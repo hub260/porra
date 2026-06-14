@@ -53,31 +53,31 @@
     "fecha": "2026-06-13",
     "fase": "Fase de Grupos",
     "local": "Brasil",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 1,
     "visitante": "Marruecos",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-14",
     "fase": "Fase de Grupos",
     "local": "Haití",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "Escocia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Escocia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-14",
     "fase": "Fase de Grupos",
     "local": "Australia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 0,
     "visitante": "Turquía",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Australia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-14",
