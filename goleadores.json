@@ -7,6 +7,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Havertz",
+    "equipo": "Alemania",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Vinicius",
     "equipo": "Brasil",
     "coste": 9,
@@ -21,7 +28,7 @@
     "puntos": 5
   },
   {
-    "goleador": "Havertz",
+    "goleador": "Undav",
     "equipo": "Alemania",
     "coste": 5,
     "goles": 1,
@@ -184,13 +191,6 @@
   {
     "goleador": "Núñez",
     "equipo": "Uruguay",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Undav",
-    "equipo": "Alemania",
     "coste": 5,
     "goles": 0,
     "puntos": 0
