@@ -1,5 +1,14 @@
 [
   {
+    "equipo": "Alemania",
+    "base": 7,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
     "equipo": "México",
     "base": 5,
     "v_grupos": 1,
@@ -128,15 +137,6 @@
   {
     "equipo": "Argentina",
     "base": 8,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Alemania",
-    "base": 7,
     "v_grupos": 0,
     "e_grupos": 0,
     "rondas": 0,
