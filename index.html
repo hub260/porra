@@ -235,8 +235,8 @@ async function cargarClasificacion() {
         <td class="pts-td r" style="color:#fff">${p.total}</td>
       </tr>`;
     }).join('');
-    document.getElementById('last-update').textContent = actualizacion ||
-      new Date().toLocaleString('es-ES',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    const fechaOk = (actualizacion && actualizacion !== 'nan') ? actualizacion : new Date().toLocaleString('es-ES',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    document.getElementById('last-update').textContent = fechaOk;
   } catch(e) {
     document.getElementById('tbody-clas').innerHTML='';
     document.getElementById('error-clas').innerHTML=`<div class="error-box">⚠️ No se pudo cargar datos.json<br><small>${e.message}</small></div>`;
