@@ -1,10 +1,10 @@
 {
-  "actualizacion": "14/06/2026 21:05",
+  "actualizacion": "15/06/2026 08:00",
   "participantes": [
     {
       "NOMBRE": "Iker M",
-      "PTS TOTALES": 16,
-      "PTS EQUIPOS": 6,
+      "PTS TOTALES": 17,
+      "PTS EQUIPOS": 7,
       "PTS GOLEADORES": 10,
       "T1": "México",
       "T2": "Alemania",
@@ -50,6 +50,22 @@
       "G5": "Leao"
     },
     {
+      "NOMBRE": "Olatz I",
+      "PTS TOTALES": 9,
+      "PTS EQUIPOS": 4,
+      "PTS GOLEADORES": 5,
+      "T1": "España",
+      "T2": "Marruecos",
+      "T3": "Suecia",
+      "T4": "Egipto",
+      "T5": "Curazao",
+      "G1": "Oyarzabal",
+      "G2": "Isak",
+      "G3": "Marmoush",
+      "G4": "Pedri",
+      "G5": "Luis Suárez col."
+    },
+    {
       "NOMBRE": "FELIPE",
       "PTS TOTALES": 8,
       "PTS EQUIPOS": 3,
@@ -83,8 +99,8 @@
     },
     {
       "NOMBRE": "Amaia I",
-      "PTS TOTALES": 3,
-      "PTS EQUIPOS": 3,
+      "PTS TOTALES": 4,
+      "PTS EQUIPOS": 4,
       "PTS GOLEADORES": 0,
       "T1": "Holanda",
       "T2": "Portugal",
@@ -96,6 +112,38 @@
       "G3": "Cody Gakpo",
       "G4": "Luis Suárez col.",
       "G5": "Woltemade"
+    },
+    {
+      "NOMBRE": "Xabier M",
+      "PTS TOTALES": 3,
+      "PTS EQUIPOS": 3,
+      "PTS GOLEADORES": 0,
+      "T1": "Francia",
+      "T2": "Costa de Marfil",
+      "T3": "Senegal",
+      "T4": "Sudáfrica",
+      "T5": "Arabia Saudí",
+      "G1": "Mbappé",
+      "G2": "Leao",
+      "G3": "Dzeko",
+      "G4": "Jackson",
+      "G5": "Désiré Doué"
+    },
+    {
+      "NOMBRE": "AINTZANE",
+      "PTS TOTALES": 3,
+      "PTS EQUIPOS": 3,
+      "PTS GOLEADORES": 0,
+      "T1": "España",
+      "T2": "Bélgica",
+      "T3": "Suecia",
+      "T4": "Uzbekistán",
+      "T5": "Nueva Zelanda",
+      "G1": "Oyarzabal",
+      "G2": "Julian Álvarez",
+      "G3": "Ferran Torres",
+      "G4": "Karl",
+      "G5": "Noa Lang"
     },
     {
       "NOMBRE": "Naroa H",
@@ -115,8 +163,8 @@
     },
     {
       "NOMBRE": "Fernando L",
-      "PTS TOTALES": 1,
-      "PTS EQUIPOS": 1,
+      "PTS TOTALES": 2,
+      "PTS EQUIPOS": 2,
       "PTS GOLEADORES": 0,
       "T1": "Suiza",
       "T2": "Senegal",
@@ -128,22 +176,6 @@
       "G3": "Saka",
       "G4": "Luis Díaz",
       "G5": "Leao"
-    },
-    {
-      "NOMBRE": "Olatz I",
-      "PTS TOTALES": 1,
-      "PTS EQUIPOS": 1,
-      "PTS GOLEADORES": 0,
-      "T1": "España",
-      "T2": "Marruecos",
-      "T3": "Suecia",
-      "T4": "Egipto",
-      "T5": "Curazao",
-      "G1": "Oyarzabal",
-      "G2": "Isak",
-      "G3": "Marmoush",
-      "G4": "Pedri",
-      "G5": "Luis Suárez col."
     },
     {
       "NOMBRE": "AMAIA M",
@@ -210,6 +242,22 @@
       "G5": "Prom.David"
     },
     {
+      "NOMBRE": "Jeni G",
+      "PTS TOTALES": 1,
+      "PTS EQUIPOS": 1,
+      "PTS GOLEADORES": 0,
+      "T1": "Holanda",
+      "T2": "Bélgica",
+      "T3": "Noruega",
+      "T4": "Turquía",
+      "T5": "Jordania",
+      "G1": "James",
+      "G2": "Foden",
+      "G3": "Cody Gakpo",
+      "G4": "Julian Álvarez",
+      "G5": "Pedri"
+    },
+    {
       "NOMBRE": "ENEKO B",
       "PTS TOTALES": 0,
       "PTS EQUIPOS": 0,
@@ -224,54 +272,6 @@
       "G3": "Bruno Fernandes",
       "G4": "Julian Álvarez",
       "G5": "Marmoush"
-    },
-    {
-      "NOMBRE": "Xabier M",
-      "PTS TOTALES": 0,
-      "PTS EQUIPOS": 0,
-      "PTS GOLEADORES": 0,
-      "T1": "Francia",
-      "T2": "Costa de Marfil",
-      "T3": "Senegal",
-      "T4": "Sudáfrica",
-      "T5": "Arabia Saudí",
-      "G1": "Mbappé",
-      "G2": "Leao",
-      "G3": "Dzeko",
-      "G4": "Jackson",
-      "G5": "Désiré Doué"
-    },
-    {
-      "NOMBRE": "AINTZANE",
-      "PTS TOTALES": 0,
-      "PTS EQUIPOS": 0,
-      "PTS GOLEADORES": 0,
-      "T1": "España",
-      "T2": "Bélgica",
-      "T3": "Suecia",
-      "T4": "Uzbekistán",
-      "T5": "Nueva Zelanda",
-      "G1": "Oyarzabal",
-      "G2": "Julian Álvarez",
-      "G3": "Ferran Torres",
-      "G4": "Karl",
-      "G5": "Noa Lang"
-    },
-    {
-      "NOMBRE": "Jeni G",
-      "PTS TOTALES": 0,
-      "PTS EQUIPOS": 0,
-      "PTS GOLEADORES": 0,
-      "T1": "Holanda",
-      "T2": "Bélgica",
-      "T3": "Noruega",
-      "T4": "Turquía",
-      "T5": "Jordania",
-      "G1": "James",
-      "G2": "Foden",
-      "G3": "Cody Gakpo",
-      "G4": "Julian Álvarez",
-      "G5": "Pedri"
     }
   ]
 }
