@@ -45,6 +45,24 @@
     "total": 3
   },
   {
+    "equipo": "Costa de Marfil",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Suecia",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
     "equipo": "Australia",
     "base": 3,
     "v_grupos": 1,
@@ -56,6 +74,24 @@
   {
     "equipo": "Brasil",
     "base": 8,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "Holanda",
+    "base": 6,
+    "v_grupos": 0,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 1
+  },
+  {
+    "equipo": "Japón",
+    "base": 5,
     "v_grupos": 0,
     "e_grupos": 1,
     "rondas": 0,
@@ -153,15 +189,6 @@
     "total": 0
   },
   {
-    "equipo": "Holanda",
-    "base": 6,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Bélgica",
     "base": 6,
     "v_grupos": 0,
@@ -181,15 +208,6 @@
   },
   {
     "equipo": "Turquía",
-    "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Japón",
     "base": 5,
     "v_grupos": 0,
     "e_grupos": 0,
@@ -234,25 +252,7 @@
     "total": 0
   },
   {
-    "equipo": "Costa de Marfil",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Austria",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Suecia",
     "base": 4,
     "v_grupos": 0,
     "e_grupos": 0,
