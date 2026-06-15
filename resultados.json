@@ -93,31 +93,31 @@
     "fecha": "2026-06-14",
     "fase": "Fase de Grupos",
     "local": "Holanda",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 2,
     "visitante": "Japón",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-14",
     "fase": "Fase de Grupos",
     "local": "Costa de Marfil",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 0,
     "visitante": "Ecuador",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Costa de Marfil",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-15",
     "fase": "Fase de Grupos",
     "local": "Suecia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 5,
+    "gol_v": 1,
     "visitante": "Túnez",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Suecia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-15",
