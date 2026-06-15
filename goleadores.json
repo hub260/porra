@@ -28,6 +28,13 @@
     "puntos": 5
   },
   {
+    "goleador": "Isak",
+    "equipo": "Suecia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Undav",
     "equipo": "Alemania",
     "coste": 5,
@@ -37,6 +44,13 @@
   {
     "goleador": "Musiala",
     "equipo": "Alemania",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Gyokeres",
+    "equipo": "Suecia",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -177,13 +191,6 @@
   {
     "goleador": "Simons",
     "equipo": "Holanda",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Isak",
-    "equipo": "Suecia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
@@ -443,13 +450,6 @@
   {
     "goleador": "Salah",
     "equipo": "Egipto",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Gyokeres",
-    "equipo": "Suecia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
