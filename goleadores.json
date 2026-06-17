@@ -35,6 +35,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Kane",
+    "equipo": "Inglaterra",
+    "coste": 10,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Vinicius",
     "equipo": "Brasil",
     "coste": 9,
@@ -89,13 +96,6 @@
     "coste": 2,
     "goles": 1,
     "puntos": 5
-  },
-  {
-    "goleador": "Kane",
-    "equipo": "Inglaterra",
-    "coste": 10,
-    "goles": 0,
-    "puntos": 0
   },
   {
     "goleador": "Yamal",
