@@ -1,5 +1,26 @@
 [
   {
+    "goleador": "Messi",
+    "equipo": "Argentina",
+    "coste": 9,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Mbappé",
+    "equipo": "Francia",
+    "coste": 10,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Haaland",
+    "equipo": "Noruega",
+    "coste": 9,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Balogun",
     "equipo": "USA",
     "coste": 7,
@@ -42,6 +63,13 @@
     "puntos": 5
   },
   {
+    "goleador": "Barcola",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Musiala",
     "equipo": "Alemania",
     "coste": 5,
@@ -61,13 +89,6 @@
     "coste": 2,
     "goles": 1,
     "puntos": 5
-  },
-  {
-    "goleador": "Mbappé",
-    "equipo": "Francia",
-    "coste": 10,
-    "goles": 0,
-    "puntos": 0
   },
   {
     "goleador": "Kane",
@@ -93,20 +114,6 @@
   {
     "goleador": "Raphiña",
     "equipo": "Brasil",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Messi",
-    "equipo": "Argentina",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Haaland",
-    "equipo": "Noruega",
     "coste": 9,
     "goles": 0,
     "puntos": 0
@@ -268,13 +275,6 @@
   {
     "goleador": "Gordon",
     "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Barcola",
-    "equipo": "Francia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
