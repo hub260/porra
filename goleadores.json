@@ -14,6 +14,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Kane",
+    "equipo": "Inglaterra",
+    "coste": 10,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Haaland",
     "equipo": "Noruega",
     "coste": 9,
@@ -33,13 +40,6 @@
     "coste": 5,
     "goles": 2,
     "puntos": 10
-  },
-  {
-    "goleador": "Kane",
-    "equipo": "Inglaterra",
-    "coste": 10,
-    "goles": 1,
-    "puntos": 5
   },
   {
     "goleador": "Vinicius",
@@ -77,8 +77,22 @@
     "puntos": 5
   },
   {
+    "goleador": "Bellingham",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Musiala",
     "equipo": "Alemania",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Rashford",
+    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -343,13 +357,6 @@
     "puntos": 0
   },
   {
-    "goleador": "Bellingham",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
     "goleador": "Mikel Merino",
     "equipo": "España",
     "coste": 5,
@@ -429,13 +436,6 @@
   {
     "goleador": "Luis Díaz",
     "equipo": "Colombia",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Rashford",
-    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 0,
     "puntos": 0
