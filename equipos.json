@@ -1,7 +1,34 @@
 [
   {
+    "equipo": "Francia",
+    "base": 10,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Argentina",
+    "base": 8,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
     "equipo": "Alemania",
     "base": 7,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Noruega",
+    "base": 6,
     "v_grupos": 1,
     "e_grupos": 0,
     "rondas": 0,
@@ -46,6 +73,15 @@
   },
   {
     "equipo": "Costa de Marfil",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Austria",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 0,
@@ -216,15 +252,6 @@
     "total": 1
   },
   {
-    "equipo": "Francia",
-    "base": 10,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Inglaterra",
     "base": 9,
     "v_grupos": 0,
@@ -234,26 +261,8 @@
     "total": 0
   },
   {
-    "equipo": "Argentina",
-    "base": 8,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Portugal",
     "base": 7,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Noruega",
-    "base": 6,
     "v_grupos": 0,
     "e_grupos": 0,
     "rondas": 0,
@@ -289,15 +298,6 @@
   },
   {
     "equipo": "Argelia",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Austria",
     "base": 4,
     "v_grupos": 0,
     "e_grupos": 0,
