@@ -203,21 +203,21 @@
     "fecha": "2026-06-17",
     "fase": "Fase de Grupos",
     "local": "Portugal",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 1,
     "visitante": "R.D. Congo",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-17",
     "fase": "Fase de Grupos",
     "local": "Inglaterra",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 0,
     "visitante": "Croacia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Inglaterra",
+    "estado": "IN_PLAY"
   },
   {
     "fecha": "2026-06-17",
