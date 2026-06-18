@@ -54,6 +54,15 @@
     "total": 3
   },
   {
+    "equipo": "Colombia",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
     "equipo": "USA",
     "base": 5,
     "v_grupos": 1,
@@ -109,6 +118,15 @@
   },
   {
     "equipo": "Australia",
+    "base": 3,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Ghana",
     "base": 3,
     "v_grupos": 1,
     "e_grupos": 0,
@@ -297,15 +315,6 @@
     "total": 0
   },
   {
-    "equipo": "Colombia",
-    "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
     "equipo": "Argelia",
     "base": 4,
     "v_grupos": 0,
@@ -343,15 +352,6 @@
   },
   {
     "equipo": "Sudáfrica",
-    "base": 3,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Ghana",
     "base": 3,
     "v_grupos": 0,
     "e_grupos": 0,
