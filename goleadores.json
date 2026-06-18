@@ -91,6 +91,13 @@
     "puntos": 5
   },
   {
+    "goleador": "Luis Díaz",
+    "equipo": "Colombia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Rashford",
     "equipo": "Inglaterra",
     "coste": 5,
@@ -429,13 +436,6 @@
   {
     "goleador": "Trossard",
     "equipo": "Bélgica",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Luis Díaz",
-    "equipo": "Colombia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
