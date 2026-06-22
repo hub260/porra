@@ -7,6 +7,20 @@
     "puntos": 15
   },
   {
+    "goleador": "Johnathan David",
+    "equipo": "Canadá",
+    "coste": 7,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Undav",
+    "equipo": "Alemania",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
     "goleador": "Mbappé",
     "equipo": "Francia",
     "coste": 10,
@@ -21,8 +35,22 @@
     "puntos": 10
   },
   {
+    "goleador": "Oyarzabal",
+    "equipo": "España",
+    "coste": 9,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Haaland",
     "equipo": "Noruega",
+    "coste": 9,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Vinicius",
+    "equipo": "Brasil",
     "coste": 9,
     "goles": 2,
     "puntos": 10
@@ -35,6 +63,20 @@
     "puntos": 10
   },
   {
+    "goleador": "Cunha",
+    "equipo": "Brasil",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Cody Gakpo",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Havertz",
     "equipo": "Alemania",
     "coste": 5,
@@ -42,8 +84,8 @@
     "puntos": 10
   },
   {
-    "goleador": "Vinicius",
-    "equipo": "Brasil",
+    "goleador": "Yamal",
+    "equipo": "España",
     "coste": 9,
     "goles": 1,
     "puntos": 5
@@ -58,13 +100,6 @@
   {
     "goleador": "Isak",
     "equipo": "Suecia",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Undav",
-    "equipo": "Alemania",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -105,6 +140,20 @@
     "puntos": 5
   },
   {
+    "goleador": "Depay",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Salah",
+    "equipo": "Egipto",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Gyokeres",
     "equipo": "Suecia",
     "coste": 5,
@@ -117,20 +166,6 @@
     "coste": 2,
     "goles": 1,
     "puntos": 5
-  },
-  {
-    "goleador": "Yamal",
-    "equipo": "España",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Oyarzabal",
-    "equipo": "España",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
   },
   {
     "goleador": "Raphiña",
@@ -184,13 +219,6 @@
   {
     "goleador": "Duran",
     "equipo": "Colombia",
-    "coste": 7,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Johnathan David",
-    "equipo": "Canadá",
     "coste": 7,
     "goles": 0,
     "puntos": 0
@@ -273,13 +301,6 @@
     "puntos": 0
   },
   {
-    "goleador": "Cunha",
-    "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
     "goleador": "Neto",
     "equipo": "Portugal",
     "coste": 5,
@@ -338,13 +359,6 @@
   {
     "goleador": "Neymar",
     "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Cody Gakpo",
-    "equipo": "Holanda",
     "coste": 5,
     "goles": 0,
     "puntos": 0
@@ -436,20 +450,6 @@
   {
     "goleador": "Trossard",
     "equipo": "Bélgica",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Depay",
-    "equipo": "Holanda",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Salah",
-    "equipo": "Egipto",
     "coste": 5,
     "goles": 0,
     "puntos": 0
