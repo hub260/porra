@@ -403,41 +403,41 @@
     "fecha": "2026-06-22",
     "fase": "Fase de Grupos",
     "local": "Argentina",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 0,
     "visitante": "Austria",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argentina",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-22",
     "fase": "Fase de Grupos",
     "local": "Francia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 0,
     "visitante": "Irak",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Francia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-23",
     "fase": "Fase de Grupos",
     "local": "Noruega",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 2,
     "visitante": "Senegal",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Noruega",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-23",
     "fase": "Fase de Grupos",
     "local": "Jordania",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 2,
     "visitante": "Argelia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argelia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-23",
