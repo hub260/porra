@@ -1,7 +1,34 @@
 [
   {
+    "equipo": "Francia",
+    "base": 10,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 6
+  },
+  {
+    "equipo": "Argentina",
+    "base": 8,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 6
+  },
+  {
     "equipo": "Alemania",
     "base": 7,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 6
+  },
+  {
+    "equipo": "Noruega",
+    "base": 6,
     "v_grupos": 2,
     "e_grupos": 0,
     "rondas": 0,
@@ -99,35 +126,8 @@
     "total": 4
   },
   {
-    "equipo": "Francia",
-    "base": 10,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
     "equipo": "Inglaterra",
     "base": 9,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Argentina",
-    "base": 8,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Noruega",
-    "base": 6,
     "v_grupos": 1,
     "e_grupos": 0,
     "rondas": 0,
@@ -145,6 +145,15 @@
   },
   {
     "equipo": "Corea del Sur",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Argelia",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 0,
@@ -353,15 +362,6 @@
   {
     "equipo": "Croacia",
     "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
-  },
-  {
-    "equipo": "Argelia",
-    "base": 4,
     "v_grupos": 0,
     "e_grupos": 0,
     "rondas": 0,
