@@ -3,8 +3,22 @@
     "goleador": "Messi",
     "equipo": "Argentina",
     "coste": 9,
-    "goles": 3,
-    "puntos": 15
+    "goles": 5,
+    "puntos": 25
+  },
+  {
+    "goleador": "Mbappé",
+    "equipo": "Francia",
+    "coste": 10,
+    "goles": 4,
+    "puntos": 20
+  },
+  {
+    "goleador": "Haaland",
+    "equipo": "Noruega",
+    "coste": 9,
+    "goles": 4,
+    "puntos": 20
   },
   {
     "goleador": "Johnathan David",
@@ -21,13 +35,6 @@
     "puntos": 15
   },
   {
-    "goleador": "Mbappé",
-    "equipo": "Francia",
-    "coste": 10,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
     "goleador": "Kane",
     "equipo": "Inglaterra",
     "coste": 10,
@@ -37,13 +44,6 @@
   {
     "goleador": "Oyarzabal",
     "equipo": "España",
-    "coste": 9,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
-    "goleador": "Haaland",
-    "equipo": "Noruega",
     "coste": 9,
     "goles": 2,
     "puntos": 10
@@ -87,6 +87,13 @@
     "goleador": "Yamal",
     "equipo": "España",
     "coste": 9,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Dembélé",
+    "equipo": "Francia",
+    "coste": 8,
     "goles": 1,
     "puntos": 5
   },
@@ -178,13 +185,6 @@
     "goleador": "Lautaro",
     "equipo": "Argentina",
     "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Dembélé",
-    "equipo": "Francia",
-    "coste": 8,
     "goles": 0,
     "puntos": 0
   },
