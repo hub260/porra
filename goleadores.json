@@ -56,6 +56,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Ronaldo",
+    "equipo": "Portugal",
+    "coste": 8,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Balogun",
     "equipo": "USA",
     "coste": 7,
@@ -168,6 +175,13 @@
     "puntos": 5
   },
   {
+    "goleador": "Leao",
+    "equipo": "Portugal",
+    "coste": 4,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
     "goleador": "Jiménez",
     "equipo": "México",
     "coste": 2,
@@ -191,13 +205,6 @@
   {
     "goleador": "Martinelli",
     "equipo": "Brasil",
-    "coste": 8,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Ronaldo",
-    "equipo": "Portugal",
     "coste": 8,
     "goles": 0,
     "puntos": 0
@@ -506,13 +513,6 @@
   {
     "goleador": "De Ketelaere",
     "equipo": "Bélgica",
-    "coste": 4,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Leao",
-    "equipo": "Portugal",
     "coste": 4,
     "goles": 0,
     "puntos": 0
