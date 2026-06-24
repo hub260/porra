@@ -443,41 +443,41 @@
     "fecha": "2026-06-23",
     "fase": "Fase de Grupos",
     "local": "Portugal",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 5,
+    "gol_v": 0,
     "visitante": "Uzbekistán",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Portugal",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-23",
     "fase": "Fase de Grupos",
     "local": "Inglaterra",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Ghana",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-23",
     "fase": "Fase de Grupos",
     "local": "Panamá",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "Croacia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Croacia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-24",
     "fase": "Fase de Grupos",
     "local": "Colombia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 0,
     "visitante": "R.D. Congo",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Colombia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-24",
