@@ -483,61 +483,61 @@
     "fecha": "2026-06-24",
     "fase": "Fase de Grupos",
     "local": "Suiza",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 1,
     "visitante": "Canadá",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Suiza",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-24",
     "fase": "Fase de Grupos",
     "local": "Bosnia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 1,
     "visitante": "Qatar",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Bosnia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-24",
     "fase": "Fase de Grupos",
     "local": "Marruecos",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 4,
+    "gol_v": 2,
     "visitante": "Haití",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Marruecos",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-24",
     "fase": "Fase de Grupos",
     "local": "Escocia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 3,
     "visitante": "Brasil",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Brasil",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Chequia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 3,
     "visitante": "México",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "México",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Sudáfrica",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 0,
     "visitante": "Corea del Sur",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Sudáfrica",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
