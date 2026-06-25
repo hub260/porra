@@ -90,6 +90,15 @@
     "total": 6
   },
   {
+    "equipo": "Costa de Marfil",
+    "base": 4,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 6
+  },
+  {
     "equipo": "España",
     "base": 10,
     "v_grupos": 1,
@@ -162,6 +171,15 @@
     "total": 4
   },
   {
+    "equipo": "Ecuador",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
     "equipo": "Sudáfrica",
     "base": 3,
     "v_grupos": 1,
@@ -208,15 +226,6 @@
   },
   {
     "equipo": "Escocia",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Costa de Marfil",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 0,
@@ -295,15 +304,6 @@
     "rondas": 0,
     "extra": 0,
     "total": 2
-  },
-  {
-    "equipo": "Ecuador",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 1
   },
   {
     "equipo": "Chequia",
