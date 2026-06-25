@@ -543,21 +543,21 @@
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Ecuador",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 1,
     "visitante": "Alemania",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Ecuador",
+    "estado": "IN_PLAY"
   },
   {
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Curazao",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 2,
     "visitante": "Costa de Marfil",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Costa de Marfil",
+    "estado": "IN_PLAY"
   },
   {
     "fecha": "2026-06-25",
