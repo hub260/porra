@@ -1,5 +1,5 @@
 {
-  "actualizacion": "25/06/2026 07:53",
+  "actualizacion": "26/06/2026 00:01",
   "participantes": [
     {
       "NOMBRE": "JUAN/JULEN",
@@ -51,8 +51,8 @@
     },
     {
       "NOMBRE": "Xabier M",
-      "PTS TOTALES": 39,
-      "PTS EQUIPOS": 14,
+      "PTS TOTALES": 42,
+      "PTS EQUIPOS": 17,
       "PTS GOLEADORES": 25,
       "T1": "Francia",
       "T2": "Costa de Marfil",
@@ -64,6 +64,38 @@
       "G3": "Dzeko",
       "G4": "Jackson",
       "G5": "Désiré Doué"
+    },
+    {
+      "NOMBRE": "Vanesa G",
+      "PTS TOTALES": 38,
+      "PTS EQUIPOS": 18,
+      "PTS GOLEADORES": 20,
+      "T1": "Francia",
+      "T2": "Brasil",
+      "T3": "Ecuador",
+      "T4": "Jordania",
+      "T5": "Curazao",
+      "G1": "Mbappé",
+      "G2": "Julian Álvarez",
+      "G3": "Olise",
+      "G4": "Pedri",
+      "G5": "Prom.David"
+    },
+    {
+      "NOMBRE": "Fernando L",
+      "PTS TOTALES": 35,
+      "PTS EQUIPOS": 15,
+      "PTS GOLEADORES": 20,
+      "T1": "Suiza",
+      "T2": "Senegal",
+      "T3": "Turquía",
+      "T4": "Holanda",
+      "T5": "Ecuador",
+      "G1": "Cody Gakpo",
+      "G2": "Julian Álvarez",
+      "G3": "Saka",
+      "G4": "Luis Díaz",
+      "G5": "Leao"
     },
     {
       "NOMBRE": "AMAIA M",
@@ -80,22 +112,6 @@
       "G3": "Leao",
       "G4": "Salah",
       "G5": "Jackson"
-    },
-    {
-      "NOMBRE": "Vanesa G",
-      "PTS TOTALES": 35,
-      "PTS EQUIPOS": 15,
-      "PTS GOLEADORES": 20,
-      "T1": "Francia",
-      "T2": "Brasil",
-      "T3": "Ecuador",
-      "T4": "Jordania",
-      "T5": "Curazao",
-      "G1": "Mbappé",
-      "G2": "Julian Álvarez",
-      "G3": "Olise",
-      "G4": "Pedri",
-      "G5": "Prom.David"
     },
     {
       "NOMBRE": "Olatz I",
@@ -162,22 +178,6 @@
       "G5": "Leao"
     },
     {
-      "NOMBRE": "Fernando L",
-      "PTS TOTALES": 32,
-      "PTS EQUIPOS": 12,
-      "PTS GOLEADORES": 20,
-      "T1": "Suiza",
-      "T2": "Senegal",
-      "T3": "Turquía",
-      "T4": "Holanda",
-      "T5": "Ecuador",
-      "G1": "Cody Gakpo",
-      "G2": "Julian Álvarez",
-      "G3": "Saka",
-      "G4": "Luis Díaz",
-      "G5": "Leao"
-    },
-    {
       "NOMBRE": "Gaxan A",
       "PTS TOTALES": 29,
       "PTS EQUIPOS": 14,
@@ -210,6 +210,22 @@
       "G5": "Woltemade"
     },
     {
+      "NOMBRE": "ENEKO B",
+      "PTS TOTALES": 23,
+      "PTS EQUIPOS": 13,
+      "PTS GOLEADORES": 10,
+      "T1": "España",
+      "T2": "Portugal",
+      "T3": "Ecuador",
+      "T4": "Uzbekistán",
+      "T5": "Curazao",
+      "G1": "Oyarzabal",
+      "G2": "Pepi",
+      "G3": "Bruno Fernandes",
+      "G4": "Julian Álvarez",
+      "G5": "Marmoush"
+    },
+    {
       "NOMBRE": "Jeni G",
       "PTS TOTALES": 22,
       "PTS EQUIPOS": 12,
@@ -224,22 +240,6 @@
       "G3": "Cody Gakpo",
       "G4": "Julian Álvarez",
       "G5": "Pedri"
-    },
-    {
-      "NOMBRE": "ENEKO B",
-      "PTS TOTALES": 20,
-      "PTS EQUIPOS": 10,
-      "PTS GOLEADORES": 10,
-      "T1": "España",
-      "T2": "Portugal",
-      "T3": "Ecuador",
-      "T4": "Uzbekistán",
-      "T5": "Curazao",
-      "G1": "Oyarzabal",
-      "G2": "Pepi",
-      "G3": "Bruno Fernandes",
-      "G4": "Julian Álvarez",
-      "G5": "Marmoush"
     },
     {
       "NOMBRE": "AINTZANE",
