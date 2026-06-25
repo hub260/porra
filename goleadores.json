@@ -21,6 +21,13 @@
     "puntos": 20
   },
   {
+    "goleador": "Vinicius",
+    "equipo": "Brasil",
+    "coste": 9,
+    "goles": 4,
+    "puntos": 20
+  },
+  {
     "goleador": "Johnathan David",
     "equipo": "Canadá",
     "coste": 7,
@@ -30,6 +37,13 @@
   {
     "goleador": "Undav",
     "equipo": "Alemania",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Cunha",
+    "equipo": "Brasil",
     "coste": 5,
     "goles": 3,
     "puntos": 15
@@ -49,13 +63,6 @@
     "puntos": 10
   },
   {
-    "goleador": "Vinicius",
-    "equipo": "Brasil",
-    "coste": 9,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
     "goleador": "Ronaldo",
     "equipo": "Portugal",
     "coste": 8,
@@ -63,16 +70,16 @@
     "puntos": 10
   },
   {
-    "goleador": "Balogun",
-    "equipo": "USA",
+    "goleador": "Quiñones",
+    "equipo": "México",
     "coste": 7,
     "goles": 2,
     "puntos": 10
   },
   {
-    "goleador": "Cunha",
-    "equipo": "Brasil",
-    "coste": 5,
+    "goleador": "Balogun",
+    "equipo": "USA",
+    "coste": 7,
     "goles": 2,
     "puntos": 10
   },
@@ -101,13 +108,6 @@
     "goleador": "Dembélé",
     "equipo": "Francia",
     "coste": 8,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Quiñones",
-    "equipo": "México",
-    "coste": 7,
     "goles": 1,
     "puntos": 5
   },
