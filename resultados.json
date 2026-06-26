@@ -547,7 +547,7 @@
     "gol_v": 1,
     "visitante": "Alemania",
     "ganador": "Ecuador",
-    "estado": "IN_PLAY"
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
@@ -557,47 +557,47 @@
     "gol_v": 2,
     "visitante": "Costa de Marfil",
     "ganador": "Costa de Marfil",
-    "estado": "IN_PLAY"
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Túnez",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 3,
     "visitante": "Holanda",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Holanda",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-25",
     "fase": "Fase de Grupos",
     "local": "Japón",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 1,
     "visitante": "Suecia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-26",
     "fase": "Fase de Grupos",
     "local": "Turquía",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 2,
     "visitante": "USA",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Turquía",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-26",
     "fase": "Fase de Grupos",
     "local": "Paraguay",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Australia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-26",
