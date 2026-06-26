@@ -1,5 +1,5 @@
 {
-  "actualizacion": "26/06/2026 00:01",
+  "actualizacion": "26/06/2026 07:38",
   "participantes": [
     {
       "NOMBRE": "JUAN/JULEN",
@@ -35,8 +35,8 @@
     },
     {
       "NOMBRE": "Iker M",
-      "PTS TOTALES": 45,
-      "PTS EQUIPOS": 20,
+      "PTS TOTALES": 51,
+      "PTS EQUIPOS": 26,
       "PTS GOLEADORES": 25,
       "T1": "México",
       "T2": "Alemania",
@@ -66,6 +66,22 @@
       "G5": "Désiré Doué"
     },
     {
+      "NOMBRE": "Fernando L",
+      "PTS TOTALES": 41,
+      "PTS EQUIPOS": 21,
+      "PTS GOLEADORES": 20,
+      "T1": "Suiza",
+      "T2": "Senegal",
+      "T3": "Turquía",
+      "T4": "Holanda",
+      "T5": "Ecuador",
+      "G1": "Cody Gakpo",
+      "G2": "Julian Álvarez",
+      "G3": "Saka",
+      "G4": "Luis Díaz",
+      "G5": "Leao"
+    },
+    {
       "NOMBRE": "Vanesa G",
       "PTS TOTALES": 38,
       "PTS EQUIPOS": 18,
@@ -82,20 +98,20 @@
       "G5": "Prom.David"
     },
     {
-      "NOMBRE": "Fernando L",
+      "NOMBRE": "Olatz I",
       "PTS TOTALES": 35,
-      "PTS EQUIPOS": 15,
-      "PTS GOLEADORES": 20,
-      "T1": "Suiza",
-      "T2": "Senegal",
-      "T3": "Turquía",
-      "T4": "Holanda",
-      "T5": "Ecuador",
-      "G1": "Cody Gakpo",
-      "G2": "Julian Álvarez",
-      "G3": "Saka",
-      "G4": "Luis Díaz",
-      "G5": "Leao"
+      "PTS EQUIPOS": 20,
+      "PTS GOLEADORES": 15,
+      "T1": "España",
+      "T2": "Marruecos",
+      "T3": "Suecia",
+      "T4": "Egipto",
+      "T5": "Curazao",
+      "G1": "Oyarzabal",
+      "G2": "Isak",
+      "G3": "Marmoush",
+      "G4": "Pedri",
+      "G5": "Luis Suárez col."
     },
     {
       "NOMBRE": "AMAIA M",
@@ -112,22 +128,6 @@
       "G3": "Leao",
       "G4": "Salah",
       "G5": "Jackson"
-    },
-    {
-      "NOMBRE": "Olatz I",
-      "PTS TOTALES": 34,
-      "PTS EQUIPOS": 19,
-      "PTS GOLEADORES": 15,
-      "T1": "España",
-      "T2": "Marruecos",
-      "T3": "Suecia",
-      "T4": "Egipto",
-      "T5": "Curazao",
-      "G1": "Oyarzabal",
-      "G2": "Isak",
-      "G3": "Marmoush",
-      "G4": "Pedri",
-      "G5": "Luis Suárez col."
     },
     {
       "NOMBRE": "IGOR M",
@@ -178,9 +178,25 @@
       "G5": "Leao"
     },
     {
+      "NOMBRE": "Amaia I",
+      "PTS TOTALES": 32,
+      "PTS EQUIPOS": 22,
+      "PTS GOLEADORES": 10,
+      "T1": "Holanda",
+      "T2": "Portugal",
+      "T3": "Ghana",
+      "T4": "Croacia",
+      "T5": "Australia",
+      "G1": "Olise",
+      "G2": "Karl",
+      "G3": "Cody Gakpo",
+      "G4": "Luis Suárez col.",
+      "G5": "Woltemade"
+    },
+    {
       "NOMBRE": "Gaxan A",
-      "PTS TOTALES": 29,
-      "PTS EQUIPOS": 14,
+      "PTS TOTALES": 30,
+      "PTS EQUIPOS": 15,
       "PTS GOLEADORES": 15,
       "T1": "España",
       "T2": "Brasil",
@@ -194,20 +210,20 @@
       "G5": "Pedri"
     },
     {
-      "NOMBRE": "Amaia I",
+      "NOMBRE": "Jeni G",
       "PTS TOTALES": 28,
       "PTS EQUIPOS": 18,
       "PTS GOLEADORES": 10,
       "T1": "Holanda",
-      "T2": "Portugal",
-      "T3": "Ghana",
-      "T4": "Croacia",
-      "T5": "Australia",
-      "G1": "Olise",
-      "G2": "Karl",
+      "T2": "Bélgica",
+      "T3": "Noruega",
+      "T4": "Turquía",
+      "T5": "Jordania",
+      "G1": "James",
+      "G2": "Foden",
       "G3": "Cody Gakpo",
-      "G4": "Luis Suárez col.",
-      "G5": "Woltemade"
+      "G4": "Julian Álvarez",
+      "G5": "Pedri"
     },
     {
       "NOMBRE": "ENEKO B",
@@ -226,25 +242,9 @@
       "G5": "Marmoush"
     },
     {
-      "NOMBRE": "Jeni G",
-      "PTS TOTALES": 22,
-      "PTS EQUIPOS": 12,
-      "PTS GOLEADORES": 10,
-      "T1": "Holanda",
-      "T2": "Bélgica",
-      "T3": "Noruega",
-      "T4": "Turquía",
-      "T5": "Jordania",
-      "G1": "James",
-      "G2": "Foden",
-      "G3": "Cody Gakpo",
-      "G4": "Julian Álvarez",
-      "G5": "Pedri"
-    },
-    {
       "NOMBRE": "AINTZANE",
-      "PTS TOTALES": 20,
-      "PTS EQUIPOS": 10,
+      "PTS TOTALES": 21,
+      "PTS EQUIPOS": 11,
       "PTS GOLEADORES": 10,
       "T1": "España",
       "T2": "Bélgica",
