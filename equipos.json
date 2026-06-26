@@ -18,6 +18,15 @@
     "total": 7
   },
   {
+    "equipo": "Holanda",
+    "base": 6,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 7
+  },
+  {
     "equipo": "Suiza",
     "base": 5,
     "v_grupos": 2,
@@ -99,6 +108,15 @@
     "total": 6
   },
   {
+    "equipo": "Japón",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 0,
+    "extra": 0,
+    "total": 5
+  },
+  {
     "equipo": "España",
     "base": 10,
     "v_grupos": 1,
@@ -126,25 +144,16 @@
     "total": 4
   },
   {
-    "equipo": "Holanda",
-    "base": 6,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
-    "equipo": "Japón",
-    "base": 5,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
     "equipo": "Bosnia",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
+    "equipo": "Suecia",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 1,
@@ -189,6 +198,15 @@
     "total": 4
   },
   {
+    "equipo": "Australia",
+    "base": 3,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
     "equipo": "Ghana",
     "base": 3,
     "v_grupos": 1,
@@ -196,6 +214,24 @@
     "rondas": 0,
     "extra": 0,
     "total": 4
+  },
+  {
+    "equipo": "Paraguay",
+    "base": 3,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
+    "equipo": "Turquía",
+    "base": 5,
+    "v_grupos": 1,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
   },
   {
     "equipo": "Croacia",
@@ -236,33 +272,6 @@
   {
     "equipo": "Austria",
     "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Suecia",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Australia",
-    "base": 3,
-    "v_grupos": 1,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 3
-  },
-  {
-    "equipo": "Paraguay",
-    "base": 3,
     "v_grupos": 1,
     "e_grupos": 0,
     "rondas": 0,
@@ -358,15 +367,6 @@
     "rondas": 0,
     "extra": 0,
     "total": 1
-  },
-  {
-    "equipo": "Turquía",
-    "base": 5,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
   },
   {
     "equipo": "Senegal",
