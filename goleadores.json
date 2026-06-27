@@ -28,6 +28,13 @@
     "puntos": 20
   },
   {
+    "goleador": "Dembélé",
+    "equipo": "Francia",
+    "coste": 8,
+    "goles": 4,
+    "puntos": 20
+  },
+  {
     "goleador": "Johnathan David",
     "equipo": "Canadá",
     "coste": 7,
@@ -98,16 +105,16 @@
     "puntos": 10
   },
   {
+    "goleador": "Trossard",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Yamal",
     "equipo": "España",
     "coste": 9,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Dembélé",
-    "equipo": "Francia",
-    "coste": 8,
     "goles": 1,
     "puntos": 5
   },
@@ -450,13 +457,6 @@
   {
     "goleador": "Mateta",
     "equipo": "Francia",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Trossard",
-    "equipo": "Bélgica",
     "coste": 5,
     "goles": 0,
     "puntos": 0
