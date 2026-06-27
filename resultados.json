@@ -603,61 +603,61 @@
     "fecha": "2026-06-26",
     "fase": "Fase de Grupos",
     "local": "Noruega",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 4,
     "visitante": "Francia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Francia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-26",
     "fase": "Fase de Grupos",
     "local": "Senegal",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 5,
+    "gol_v": 0,
     "visitante": "Irak",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Senegal",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Uruguay",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "España",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "España",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Cabo Verde",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Arabia Saudí",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Nueva Zelanda",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 5,
     "visitante": "Bélgica",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Bélgica",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Egipto",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 1,
     "visitante": "Irán",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
@@ -720,44 +720,44 @@
     "estado": "TIMED"
   },
   {
-    "fecha": "28/06/2026",
+    "fecha": "2026-06-28",
     "fase": "1/32",
-    "local": "2º Grupo A",
+    "local": "Sudáfrica",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo B",
+    "visitante": "Canadá",
     "ganador": "",
-    "estado": "SoFi Stadium, California"
+    "estado": "TIMED"
   },
   {
-    "fecha": "29/06/2026",
+    "fecha": "2026-06-29",
     "fase": "1/32",
-    "local": "1º Grupo C",
+    "local": "Brasil",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo F",
+    "visitante": "Japón",
     "ganador": "",
-    "estado": "NRG Stadium, Houston"
+    "estado": "TIMED"
   },
   {
-    "fecha": "29/06/2026",
+    "fecha": "2026-06-30",
     "fase": "1/32",
-    "local": "1º Grupo E",
+    "local": "Holanda",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "3er clasificado",
+    "visitante": "Marruecos",
     "ganador": "",
-    "estado": "Gillette Stadium, Boston"
+    "estado": "TIMED"
   },
   {
-    "fecha": "30/06/2026",
+    "fecha": "2026-07-02",
     "fase": "1/32",
-    "local": "1º Grupo A",
+    "local": "USA",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo D",
+    "visitante": "Bosnia",
     "ganador": "",
-    "estado": "AT&T Stadium, Texas"
+    "estado": "TIMED"
   },
   {
     "fecha": "30/06/2026",
