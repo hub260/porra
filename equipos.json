@@ -1,5 +1,14 @@
 [
   {
+    "equipo": "Francia",
+    "base": 10,
+    "v_grupos": 3,
+    "e_grupos": 0,
+    "rondas": 0,
+    "extra": 0,
+    "total": 9
+  },
+  {
     "equipo": "México",
     "base": 5,
     "v_grupos": 3,
@@ -27,15 +36,6 @@
     "total": 7
   },
   {
-    "equipo": "Suiza",
-    "base": 5,
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 7
-  },
-  {
     "equipo": "Marruecos",
     "base": 5,
     "v_grupos": 2,
@@ -45,8 +45,26 @@
     "total": 7
   },
   {
-    "equipo": "Francia",
+    "equipo": "España",
     "base": 10,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 7
+  },
+  {
+    "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 7
+  },
+  {
+    "equipo": "USA",
+    "base": 5,
     "v_grupos": 2,
     "e_grupos": 0,
     "rondas": 0,
@@ -90,15 +108,6 @@
     "total": 6
   },
   {
-    "equipo": "USA",
-    "base": 5,
-    "v_grupos": 2,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 6
-  },
-  {
     "equipo": "Costa de Marfil",
     "base": 4,
     "v_grupos": 2,
@@ -117,8 +126,44 @@
     "total": 5
   },
   {
-    "equipo": "España",
-    "base": 10,
+    "equipo": "Bélgica",
+    "base": 6,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 0,
+    "extra": 0,
+    "total": 5
+  },
+  {
+    "equipo": "Egipto",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 0,
+    "extra": 0,
+    "total": 5
+  },
+  {
+    "equipo": "Bosnia",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
+    "equipo": "Canadá",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 0,
+    "extra": 0,
+    "total": 4
+  },
+  {
+    "equipo": "Sudáfrica",
+    "base": 3,
     "v_grupos": 1,
     "e_grupos": 1,
     "rondas": 0,
@@ -144,34 +189,7 @@
     "total": 4
   },
   {
-    "equipo": "Bosnia",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
     "equipo": "Suecia",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
-    "equipo": "Egipto",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
-    "equipo": "Canadá",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 1,
@@ -182,15 +200,6 @@
   {
     "equipo": "Ecuador",
     "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 4
-  },
-  {
-    "equipo": "Sudáfrica",
-    "base": 3,
     "v_grupos": 1,
     "e_grupos": 1,
     "rondas": 0,
@@ -279,13 +288,31 @@
     "total": 3
   },
   {
-    "equipo": "Bélgica",
-    "base": 6,
-    "v_grupos": 0,
-    "e_grupos": 2,
+    "equipo": "Senegal",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 0,
     "rondas": 0,
     "extra": 0,
-    "total": 2
+    "total": 3
+  },
+  {
+    "equipo": "Irán",
+    "base": 3,
+    "v_grupos": 0,
+    "e_grupos": 3,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
+  },
+  {
+    "equipo": "Cabo Verde",
+    "base": 2,
+    "v_grupos": 0,
+    "e_grupos": 3,
+    "rondas": 0,
+    "extra": 0,
+    "total": 3
   },
   {
     "equipo": "Uruguay",
@@ -297,17 +324,8 @@
     "total": 2
   },
   {
-    "equipo": "Irán",
+    "equipo": "Arabia Saudí",
     "base": 3,
-    "v_grupos": 0,
-    "e_grupos": 2,
-    "rondas": 0,
-    "extra": 0,
-    "total": 2
-  },
-  {
-    "equipo": "Cabo Verde",
-    "base": 2,
     "v_grupos": 0,
     "e_grupos": 2,
     "rondas": 0,
@@ -325,15 +343,6 @@
   },
   {
     "equipo": "R.D. Congo",
-    "base": 3,
-    "v_grupos": 0,
-    "e_grupos": 1,
-    "rondas": 0,
-    "extra": 0,
-    "total": 1
-  },
-  {
-    "equipo": "Arabia Saudí",
     "base": 3,
     "v_grupos": 0,
     "e_grupos": 1,
@@ -367,15 +376,6 @@
     "rondas": 0,
     "extra": 0,
     "total": 1
-  },
-  {
-    "equipo": "Senegal",
-    "base": 4,
-    "v_grupos": 0,
-    "e_grupos": 0,
-    "rondas": 0,
-    "extra": 0,
-    "total": 0
   },
   {
     "equipo": "Túnez",
