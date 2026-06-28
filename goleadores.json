@@ -3,8 +3,8 @@
     "goleador": "Messi",
     "equipo": "Argentina",
     "coste": 9,
-    "goles": 5,
-    "puntos": 25
+    "goles": 6,
+    "puntos": 30
   },
   {
     "goleador": "Mbappé",
@@ -59,8 +59,8 @@
     "goleador": "Kane",
     "equipo": "Inglaterra",
     "coste": 10,
-    "goles": 2,
-    "puntos": 10
+    "goles": 3,
+    "puntos": 15
   },
   {
     "goleador": "Oyarzabal",
@@ -112,6 +112,13 @@
     "puntos": 10
   },
   {
+    "goleador": "Bellingham",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Yamal",
     "equipo": "España",
     "coste": 9,
@@ -128,13 +135,6 @@
   {
     "goleador": "Barcola",
     "equipo": "Francia",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Bellingham",
-    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 1,
     "puntos": 5
