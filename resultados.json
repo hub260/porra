@@ -663,61 +663,61 @@
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Panamá",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 2,
     "visitante": "Inglaterra",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Inglaterra",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Croacia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 1,
     "visitante": "Ghana",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Croacia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "Colombia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Portugal",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-27",
     "fase": "Fase de Grupos",
     "local": "R.D. Congo",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 1,
     "visitante": "Uzbekistán",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "R.D. Congo",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-28",
     "fase": "Fase de Grupos",
     "local": "Jordania",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 3,
     "visitante": "Argentina",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argentina",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-28",
     "fase": "Fase de Grupos",
     "local": "Argelia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 3,
     "visitante": "Austria",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "EMPATE",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-28",
@@ -740,12 +740,72 @@
     "estado": "TIMED"
   },
   {
+    "fecha": "2026-06-29",
+    "fase": "1/32",
+    "local": "Alemania",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Paraguay",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
     "fecha": "2026-06-30",
     "fase": "1/32",
     "local": "Holanda",
     "gol_l": null,
     "gol_v": null,
     "visitante": "Marruecos",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-06-30",
+    "fase": "1/32",
+    "local": "Costa de Marfil",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Noruega",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-06-30",
+    "fase": "1/32",
+    "local": "Francia",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Suecia",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-01",
+    "fase": "1/32",
+    "local": "México",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Ecuador",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-01",
+    "fase": "1/32",
+    "local": "Inglaterra",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "R.D. Congo",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-01",
+    "fase": "1/32",
+    "local": "Bélgica",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Senegal",
     "ganador": "",
     "estado": "TIMED"
   },
@@ -760,123 +820,63 @@
     "estado": "TIMED"
   },
   {
-    "fecha": "30/06/2026",
+    "fecha": "2026-07-02",
     "fase": "1/32",
-    "local": "1º Grupo F",
+    "local": "España",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "3er clasificado",
+    "visitante": "Austria",
     "ganador": "",
-    "estado": "Arrowhead Stadium, Kansas City"
+    "estado": "TIMED"
   },
   {
-    "fecha": "01/07/2026",
+    "fecha": "2026-07-02",
     "fase": "1/32",
-    "local": "1º Grupo B",
+    "local": "Portugal",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo C",
+    "visitante": "Croacia",
     "ganador": "",
-    "estado": "BC Place, Vancouver"
+    "estado": "TIMED"
   },
   {
-    "fecha": "01/07/2026",
+    "fecha": "2026-07-03",
     "fase": "1/32",
-    "local": "1º Grupo D",
+    "local": "Suiza",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "3er clasificado",
+    "visitante": "Argelia",
     "ganador": "",
-    "estado": "Lincoln Financial Field, Filadelfia"
+    "estado": "TIMED"
   },
   {
-    "fecha": "02/07/2026",
+    "fecha": "2026-07-03",
     "fase": "1/32",
-    "local": "1º Grupo H",
+    "local": "Australia",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo G",
+    "visitante": "Egipto",
     "ganador": "",
-    "estado": "Mercedes-Benz Stadium, Atlanta"
+    "estado": "TIMED"
   },
   {
-    "fecha": "02/07/2026",
+    "fecha": "2026-07-03",
     "fase": "1/32",
-    "local": "1º Grupo J",
+    "local": "Argentina",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "3er clasificado",
+    "visitante": "Cabo Verde",
     "ganador": "",
-    "estado": "NRG Stadium, Houston"
+    "estado": "TIMED"
   },
   {
-    "fecha": "03/07/2026",
+    "fecha": "2026-07-04",
     "fase": "1/32",
-    "local": "1º Grupo G",
+    "local": "Colombia",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "2º Grupo H",
+    "visitante": "Ghana",
     "ganador": "",
-    "estado": "Lumen Field, Seattle"
-  },
-  {
-    "fecha": "03/07/2026",
-    "fase": "1/32",
-    "local": "1º Grupo K",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "2º Grupo J",
-    "ganador": "",
-    "estado": "Estadio Azteca, México"
-  },
-  {
-    "fecha": "04/07/2026",
-    "fase": "1/32",
-    "local": "2º Grupo I",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "2º Grupo K",
-    "ganador": "",
-    "estado": "AT&T Stadium, Texas"
-  },
-  {
-    "fecha": "04/07/2026",
-    "fase": "1/32",
-    "local": "1º Grupo I",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "2º Grupo L",
-    "ganador": "",
-    "estado": "MetLife Stadium, Nueva Jersey"
-  },
-  {
-    "fecha": "05/07/2026",
-    "fase": "1/32",
-    "local": "1º Grupo L",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "3er clasificado",
-    "ganador": "",
-    "estado": "Hard Rock Stadium, Miami"
-  },
-  {
-    "fecha": "05/07/2026",
-    "fase": "1/32",
-    "local": "2º Grupo E",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "3er clasificado",
-    "ganador": "",
-    "estado": "BMO Field, Toronto"
-  },
-  {
-    "fecha": "06/07/2026",
-    "fase": "1/32",
-    "local": "TBD",
-    "gol_l": null,
-    "gol_v": null,
-    "visitante": "TBD",
-    "ganador": "",
-    "estado": "Estadio Akron, Guadalajara"
+    "estado": "TIMED"
   }
 ]
