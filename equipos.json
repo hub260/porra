@@ -1,5 +1,14 @@
 [
   {
+    "equipo": "Canadá",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 1,
+    "rondas": 15,
+    "extra": 0,
+    "total": 19
+  },
+  {
     "equipo": "Francia",
     "base": 10,
     "v_grupos": 3,
@@ -172,15 +181,6 @@
   },
   {
     "equipo": "Bosnia",
-    "base": 4,
-    "v_grupos": 1,
-    "e_grupos": 1,
-    "rondas": 5,
-    "extra": 0,
-    "total": 9
-  },
-  {
-    "equipo": "Canadá",
     "base": 4,
     "v_grupos": 1,
     "e_grupos": 1,
