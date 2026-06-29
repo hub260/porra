@@ -723,11 +723,11 @@
     "fecha": "2026-06-28",
     "fase": "1/32",
     "local": "Sudáfrica",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "Canadá",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Canadá",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-29",
