@@ -733,31 +733,31 @@
     "fecha": "2026-06-29",
     "fase": "1/32",
     "local": "Brasil",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 1,
     "visitante": "Japón",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Brasil",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-29",
     "fase": "1/32",
     "local": "Alemania",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 4,
+    "gol_v": 5,
     "visitante": "Paraguay",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Paraguay",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-30",
     "fase": "1/32",
     "local": "Holanda",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 4,
     "visitante": "Marruecos",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Marruecos",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-30",
