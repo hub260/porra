@@ -63,6 +63,20 @@
     "puntos": 15
   },
   {
+    "goleador": "Cody Gakpo",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Havertz",
+    "equipo": "Alemania",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
     "goleador": "Oyarzabal",
     "equipo": "España",
     "coste": 9,
@@ -87,20 +101,6 @@
     "goleador": "Balogun",
     "equipo": "USA",
     "coste": 7,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
-    "goleador": "Cody Gakpo",
-    "equipo": "Holanda",
-    "coste": 5,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
-    "goleador": "Havertz",
-    "equipo": "Alemania",
-    "coste": 5,
     "goles": 2,
     "puntos": 10
   },
