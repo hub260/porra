@@ -1,5 +1,23 @@
 [
   {
+    "equipo": "Francia",
+    "base": 10,
+    "v_grupos": 3,
+    "e_grupos": 0,
+    "rondas": 15,
+    "extra": 0,
+    "total": 24
+  },
+  {
+    "equipo": "México",
+    "base": 5,
+    "v_grupos": 3,
+    "e_grupos": 0,
+    "rondas": 15,
+    "extra": 0,
+    "total": 24
+  },
+  {
     "equipo": "Brasil",
     "base": 8,
     "v_grupos": 2,
@@ -18,6 +36,15 @@
     "total": 22
   },
   {
+    "equipo": "Noruega",
+    "base": 6,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 15,
+    "extra": 0,
+    "total": 21
+  },
+  {
     "equipo": "Canadá",
     "base": 4,
     "v_grupos": 1,
@@ -34,24 +61,6 @@
     "rondas": 15,
     "extra": 0,
     "total": 19
-  },
-  {
-    "equipo": "Francia",
-    "base": 10,
-    "v_grupos": 3,
-    "e_grupos": 0,
-    "rondas": 5,
-    "extra": 0,
-    "total": 14
-  },
-  {
-    "equipo": "México",
-    "base": 5,
-    "v_grupos": 3,
-    "e_grupos": 0,
-    "rondas": 5,
-    "extra": 0,
-    "total": 14
   },
   {
     "equipo": "Argentina",
@@ -119,15 +128,6 @@
   {
     "equipo": "Alemania",
     "base": 7,
-    "v_grupos": 2,
-    "e_grupos": 0,
-    "rondas": 5,
-    "extra": 0,
-    "total": 11
-  },
-  {
-    "equipo": "Noruega",
-    "base": 6,
     "v_grupos": 2,
     "e_grupos": 0,
     "rondas": 5,
