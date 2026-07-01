@@ -1,11 +1,11 @@
 {
-  "actualizacion": "30/06/2026 07:51",
+  "actualizacion": "01/07/2026 07:49",
   "participantes": [
     {
       "NOMBRE": "JUAN/JULEN",
-      "PTS TOTALES": 86,
+      "PTS TOTALES": 96,
       "PTS EQUIPOS": 36,
-      "PTS GOLEADORES": 50,
+      "PTS GOLEADORES": 60,
       "T1": "Inglaterra",
       "T2": "Suiza",
       "T3": "Croacia",
@@ -19,8 +19,8 @@
     },
     {
       "NOMBRE": "Iker M",
-      "PTS TOTALES": 81,
-      "PTS EQUIPOS": 41,
+      "PTS TOTALES": 91,
+      "PTS EQUIPOS": 51,
       "PTS GOLEADORES": 40,
       "T1": "México",
       "T2": "Alemania",
@@ -34,10 +34,26 @@
       "G5": "Jackson"
     },
     {
-      "NOMBRE": "FELIPE",
-      "PTS TOTALES": 71,
-      "PTS EQUIPOS": 36,
+      "NOMBRE": "Xabier M",
+      "PTS TOTALES": 89,
+      "PTS EQUIPOS": 54,
       "PTS GOLEADORES": 35,
+      "T1": "Francia",
+      "T2": "Costa de Marfil",
+      "T3": "Senegal",
+      "T4": "Sudáfrica",
+      "T5": "Arabia Saudí",
+      "G1": "Mbappé",
+      "G2": "Leao",
+      "G3": "Dzeko",
+      "G4": "Jackson",
+      "G5": "Désiré Doué"
+    },
+    {
+      "NOMBRE": "FELIPE",
+      "PTS TOTALES": 86,
+      "PTS EQUIPOS": 36,
+      "PTS GOLEADORES": 50,
       "T1": "Alemania",
       "T2": "Portugal",
       "T3": "Argentina",
@@ -50,20 +66,36 @@
       "G5": "Jackson"
     },
     {
-      "NOMBRE": "Xabier M",
-      "PTS TOTALES": 69,
-      "PTS EQUIPOS": 44,
-      "PTS GOLEADORES": 25,
+      "NOMBRE": "Vanesa G",
+      "PTS TOTALES": 86,
+      "PTS EQUIPOS": 56,
+      "PTS GOLEADORES": 30,
       "T1": "Francia",
-      "T2": "Costa de Marfil",
-      "T3": "Senegal",
-      "T4": "Sudáfrica",
-      "T5": "Arabia Saudí",
+      "T2": "Brasil",
+      "T3": "Ecuador",
+      "T4": "Jordania",
+      "T5": "Curazao",
       "G1": "Mbappé",
-      "G2": "Leao",
-      "G3": "Dzeko",
-      "G4": "Jackson",
-      "G5": "Désiré Doué"
+      "G2": "Julian Álvarez",
+      "G3": "Olise",
+      "G4": "Pedri",
+      "G5": "Prom.David"
+    },
+    {
+      "NOMBRE": "IGOR M",
+      "PTS TOTALES": 74,
+      "PTS EQUIPOS": 64,
+      "PTS GOLEADORES": 10,
+      "T1": "México",
+      "T2": "Canadá",
+      "T3": "USA",
+      "T4": "Portugal",
+      "T5": "Uzbekistán",
+      "G1": "Olise",
+      "G2": "Oyarzabal",
+      "G3": "Obispo",
+      "G4": "Woltemade",
+      "G5": "Karl"
     },
     {
       "NOMBRE": "Fernando L",
@@ -130,22 +162,6 @@
       "G5": "Pedri"
     },
     {
-      "NOMBRE": "Vanesa G",
-      "PTS TOTALES": 66,
-      "PTS EQUIPOS": 46,
-      "PTS GOLEADORES": 20,
-      "T1": "Francia",
-      "T2": "Brasil",
-      "T3": "Ecuador",
-      "T4": "Jordania",
-      "T5": "Curazao",
-      "G1": "Mbappé",
-      "G2": "Julian Álvarez",
-      "G3": "Olise",
-      "G4": "Pedri",
-      "G5": "Prom.David"
-    },
-    {
       "NOMBRE": "Amaia I",
       "PTS TOTALES": 66,
       "PTS EQUIPOS": 51,
@@ -162,22 +178,6 @@
       "G5": "Woltemade"
     },
     {
-      "NOMBRE": "IGOR M",
-      "PTS TOTALES": 64,
-      "PTS EQUIPOS": 54,
-      "PTS GOLEADORES": 10,
-      "T1": "México",
-      "T2": "Canadá",
-      "T3": "USA",
-      "T4": "Portugal",
-      "T5": "Uzbekistán",
-      "G1": "Olise",
-      "G2": "Oyarzabal",
-      "G3": "Obispo",
-      "G4": "Woltemade",
-      "G5": "Karl"
-    },
-    {
       "NOMBRE": "Naroa H",
       "PTS TOTALES": 62,
       "PTS EQUIPOS": 47,
@@ -192,6 +192,22 @@
       "G3": "Julian Álvarez",
       "G4": "Leao",
       "G5": "Jackson"
+    },
+    {
+      "NOMBRE": "Jeni G",
+      "PTS TOTALES": 61,
+      "PTS EQUIPOS": 46,
+      "PTS GOLEADORES": 15,
+      "T1": "Holanda",
+      "T2": "Bélgica",
+      "T3": "Noruega",
+      "T4": "Turquía",
+      "T5": "Jordania",
+      "G1": "James",
+      "G2": "Foden",
+      "G3": "Cody Gakpo",
+      "G4": "Julian Álvarez",
+      "G5": "Pedri"
     },
     {
       "NOMBRE": "AMAIA M",
@@ -224,22 +240,6 @@
       "G3": "Endrick",
       "G4": "Pedri",
       "G5": "Dzeko"
-    },
-    {
-      "NOMBRE": "Jeni G",
-      "PTS TOTALES": 51,
-      "PTS EQUIPOS": 36,
-      "PTS GOLEADORES": 15,
-      "T1": "Holanda",
-      "T2": "Bélgica",
-      "T3": "Noruega",
-      "T4": "Turquía",
-      "T5": "Jordania",
-      "G1": "James",
-      "G2": "Foden",
-      "G3": "Cody Gakpo",
-      "G4": "Julian Álvarez",
-      "G5": "Pedri"
     },
     {
       "NOMBRE": "AINTZANE",
