@@ -10,15 +10,15 @@
     "goleador": "Mbappé",
     "equipo": "Francia",
     "coste": 10,
-    "goles": 4,
-    "puntos": 20
+    "goles": 6,
+    "puntos": 30
   },
   {
     "goleador": "Haaland",
     "equipo": "Noruega",
     "coste": 9,
-    "goles": 4,
-    "puntos": 20
+    "goles": 5,
+    "puntos": 25
   },
   {
     "goleador": "Vinicius",
@@ -63,6 +63,13 @@
     "puntos": 15
   },
   {
+    "goleador": "Quiñones",
+    "equipo": "México",
+    "coste": 7,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
     "goleador": "Cody Gakpo",
     "equipo": "Holanda",
     "coste": 5,
@@ -91,13 +98,6 @@
     "puntos": 10
   },
   {
-    "goleador": "Quiñones",
-    "equipo": "México",
-    "coste": 7,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
     "goleador": "Balogun",
     "equipo": "USA",
     "coste": 7,
@@ -112,9 +112,23 @@
     "puntos": 10
   },
   {
+    "goleador": "Barcola",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Bellingham",
     "equipo": "Inglaterra",
     "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Jiménez",
+    "equipo": "México",
+    "coste": 2,
     "goles": 2,
     "puntos": 10
   },
@@ -128,13 +142,6 @@
   {
     "goleador": "Isak",
     "equipo": "Suecia",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Barcola",
-    "equipo": "Francia",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -185,13 +192,6 @@
     "goleador": "Leao",
     "equipo": "Portugal",
     "coste": 4,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Jiménez",
-    "equipo": "México",
-    "coste": 2,
     "goles": 1,
     "puntos": 5
   },
