@@ -763,31 +763,31 @@
     "fecha": "2026-06-30",
     "fase": "1/32",
     "local": "Costa de Marfil",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 2,
     "visitante": "Noruega",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Noruega",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-06-30",
     "fase": "1/32",
     "local": "Francia",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 0,
     "visitante": "Suecia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Francia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-01",
     "fase": "1/32",
     "local": "México",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 0,
     "visitante": "Ecuador",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "México",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-01",
@@ -876,6 +876,16 @@
     "gol_l": null,
     "gol_v": null,
     "visitante": "Ghana",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-04",
+    "fase": "1/16",
+    "local": "Canadá",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Marruecos",
     "ganador": "",
     "estado": "TIMED"
   }
