@@ -1,10 +1,10 @@
 {
-  "actualizacion": "01/07/2026 07:49",
+  "actualizacion": "02/07/2026 07:48",
   "participantes": [
     {
       "NOMBRE": "JUAN/JULEN",
-      "PTS TOTALES": 96,
-      "PTS EQUIPOS": 36,
+      "PTS TOTALES": 106,
+      "PTS EQUIPOS": 46,
       "PTS GOLEADORES": 60,
       "T1": "Inglaterra",
       "T2": "Suiza",
@@ -83,8 +83,8 @@
     },
     {
       "NOMBRE": "IGOR M",
-      "PTS TOTALES": 74,
-      "PTS EQUIPOS": 64,
+      "PTS TOTALES": 84,
+      "PTS EQUIPOS": 74,
       "PTS GOLEADORES": 10,
       "T1": "México",
       "T2": "Canadá",
@@ -96,6 +96,22 @@
       "G3": "Obispo",
       "G4": "Woltemade",
       "G5": "Karl"
+    },
+    {
+      "NOMBRE": "Jeni G",
+      "PTS TOTALES": 71,
+      "PTS EQUIPOS": 56,
+      "PTS GOLEADORES": 15,
+      "T1": "Holanda",
+      "T2": "Bélgica",
+      "T3": "Noruega",
+      "T4": "Turquía",
+      "T5": "Jordania",
+      "G1": "James",
+      "G2": "Foden",
+      "G3": "Cody Gakpo",
+      "G4": "Julian Álvarez",
+      "G5": "Pedri"
     },
     {
       "NOMBRE": "Fernando L",
@@ -194,22 +210,6 @@
       "G5": "Jackson"
     },
     {
-      "NOMBRE": "Jeni G",
-      "PTS TOTALES": 61,
-      "PTS EQUIPOS": 46,
-      "PTS GOLEADORES": 15,
-      "T1": "Holanda",
-      "T2": "Bélgica",
-      "T3": "Noruega",
-      "T4": "Turquía",
-      "T5": "Jordania",
-      "G1": "James",
-      "G2": "Foden",
-      "G3": "Cody Gakpo",
-      "G4": "Julian Álvarez",
-      "G5": "Pedri"
-    },
-    {
       "NOMBRE": "AMAIA M",
       "PTS TOTALES": 54,
       "PTS EQUIPOS": 34,
@@ -243,8 +243,8 @@
     },
     {
       "NOMBRE": "AINTZANE",
-      "PTS TOTALES": 42,
-      "PTS EQUIPOS": 32,
+      "PTS TOTALES": 52,
+      "PTS EQUIPOS": 42,
       "PTS GOLEADORES": 10,
       "T1": "España",
       "T2": "Bélgica",
