@@ -21,6 +21,13 @@
     "puntos": 25
   },
   {
+    "goleador": "Kane",
+    "equipo": "Inglaterra",
+    "coste": 10,
+    "goles": 5,
+    "puntos": 25
+  },
+  {
     "goleador": "Vinicius",
     "equipo": "Brasil",
     "coste": 9,
@@ -56,15 +63,15 @@
     "puntos": 15
   },
   {
-    "goleador": "Kane",
-    "equipo": "Inglaterra",
-    "coste": 10,
+    "goleador": "Quiñones",
+    "equipo": "México",
+    "coste": 7,
     "goles": 3,
     "puntos": 15
   },
   {
-    "goleador": "Quiñones",
-    "equipo": "México",
+    "goleador": "Balogun",
+    "equipo": "USA",
     "coste": 7,
     "goles": 3,
     "puntos": 15
@@ -98,13 +105,6 @@
     "puntos": 10
   },
   {
-    "goleador": "Balogun",
-    "equipo": "USA",
-    "coste": 7,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
     "goleador": "Trossard",
     "equipo": "Bélgica",
     "coste": 5,
@@ -129,6 +129,13 @@
     "goleador": "Jiménez",
     "equipo": "México",
     "coste": 2,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Lukaku",
+    "equipo": "Bélgica",
+    "coste": 5,
     "goles": 2,
     "puntos": 10
   },
@@ -401,13 +408,6 @@
   {
     "goleador": "Richarlison",
     "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Lukaku",
-    "equipo": "Bélgica",
     "coste": 5,
     "goles": 0,
     "puntos": 0
