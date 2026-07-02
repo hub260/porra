@@ -36,6 +36,24 @@
     "total": 22
   },
   {
+    "equipo": "Inglaterra",
+    "base": 9,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 15,
+    "extra": 0,
+    "total": 22
+  },
+  {
+    "equipo": "USA",
+    "base": 5,
+    "v_grupos": 2,
+    "e_grupos": 0,
+    "rondas": 15,
+    "extra": 0,
+    "total": 21
+  },
+  {
     "equipo": "Noruega",
     "base": 6,
     "v_grupos": 2,
@@ -43,6 +61,15 @@
     "rondas": 15,
     "extra": 0,
     "total": 21
+  },
+  {
+    "equipo": "Bélgica",
+    "base": 6,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 15,
+    "extra": 0,
+    "total": 20
   },
   {
     "equipo": "Canadá",
@@ -108,24 +135,6 @@
     "total": 12
   },
   {
-    "equipo": "Inglaterra",
-    "base": 9,
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 5,
-    "extra": 0,
-    "total": 12
-  },
-  {
-    "equipo": "USA",
-    "base": 5,
-    "v_grupos": 2,
-    "e_grupos": 0,
-    "rondas": 5,
-    "extra": 0,
-    "total": 11
-  },
-  {
     "equipo": "Alemania",
     "base": 7,
     "v_grupos": 2,
@@ -155,15 +164,6 @@
   {
     "equipo": "Japón",
     "base": 5,
-    "v_grupos": 1,
-    "e_grupos": 2,
-    "rondas": 5,
-    "extra": 0,
-    "total": 10
-  },
-  {
-    "equipo": "Bélgica",
-    "base": 6,
     "v_grupos": 1,
     "e_grupos": 2,
     "rondas": 5,
