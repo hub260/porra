@@ -18,6 +18,15 @@
     "total": 24
   },
   {
+    "equipo": "Argentina",
+    "base": 8,
+    "v_grupos": 3,
+    "e_grupos": 0,
+    "rondas": 15,
+    "extra": 0,
+    "total": 24
+  },
+  {
     "equipo": "Brasil",
     "base": 8,
     "v_grupos": 2,
@@ -46,6 +55,15 @@
   },
   {
     "equipo": "Suiza",
+    "base": 5,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 15,
+    "extra": 0,
+    "total": 22
+  },
+  {
+    "equipo": "Colombia",
     "base": 5,
     "v_grupos": 2,
     "e_grupos": 1,
@@ -90,6 +108,15 @@
     "total": 20
   },
   {
+    "equipo": "Egipto",
+    "base": 4,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 15,
+    "extra": 0,
+    "total": 20
+  },
+  {
     "equipo": "Portugal",
     "base": 7,
     "v_grupos": 1,
@@ -117,26 +144,8 @@
     "total": 19
   },
   {
-    "equipo": "Argentina",
-    "base": 8,
-    "v_grupos": 3,
-    "e_grupos": 0,
-    "rondas": 5,
-    "extra": 0,
-    "total": 14
-  },
-  {
     "equipo": "Holanda",
     "base": 6,
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 5,
-    "extra": 0,
-    "total": 12
-  },
-  {
-    "equipo": "Colombia",
-    "base": 5,
     "v_grupos": 2,
     "e_grupos": 1,
     "rondas": 5,
@@ -173,15 +182,6 @@
   {
     "equipo": "Japón",
     "base": 5,
-    "v_grupos": 1,
-    "e_grupos": 2,
-    "rondas": 5,
-    "extra": 0,
-    "total": 10
-  },
-  {
-    "equipo": "Egipto",
-    "base": 4,
     "v_grupos": 1,
     "e_grupos": 2,
     "rondas": 5,
