@@ -1,5 +1,5 @@
 {
-  "actualizacion": "03/07/2026 08:11",
+  "actualizacion": "04/07/2026 10:27",
   "participantes": [
     {
       "NOMBRE": "JUAN/JULEN",
@@ -19,8 +19,8 @@
     },
     {
       "NOMBRE": "FELIPE",
-      "PTS TOTALES": 106,
-      "PTS EQUIPOS": 46,
+      "PTS TOTALES": 116,
+      "PTS EQUIPOS": 56,
       "PTS GOLEADORES": 60,
       "T1": "Alemania",
       "T2": "Portugal",
@@ -66,6 +66,38 @@
       "G5": "Jackson"
     },
     {
+      "NOMBRE": "Olatz I",
+      "PTS TOTALES": 99,
+      "PTS EQUIPOS": 74,
+      "PTS GOLEADORES": 25,
+      "T1": "España",
+      "T2": "Marruecos",
+      "T3": "Suecia",
+      "T4": "Egipto",
+      "T5": "Curazao",
+      "G1": "Oyarzabal",
+      "G2": "Isak",
+      "G3": "Marmoush",
+      "G4": "Pedri",
+      "G5": "Luis Suárez col."
+    },
+    {
+      "NOMBRE": "Naroa H",
+      "PTS TOTALES": 92,
+      "PTS EQUIPOS": 67,
+      "PTS GOLEADORES": 25,
+      "T1": "España",
+      "T2": "Marruecos",
+      "T3": "Colombia",
+      "T4": "Qatar",
+      "T5": "Panamá",
+      "G1": "Oyarzabal",
+      "G2": "Olise",
+      "G3": "Julian Álvarez",
+      "G4": "Leao",
+      "G5": "Jackson"
+    },
+    {
       "NOMBRE": "Xabier M",
       "PTS TOTALES": 89,
       "PTS EQUIPOS": 54,
@@ -82,20 +114,20 @@
       "G5": "Désiré Doué"
     },
     {
-      "NOMBRE": "Olatz I",
-      "PTS TOTALES": 89,
-      "PTS EQUIPOS": 64,
-      "PTS GOLEADORES": 25,
-      "T1": "España",
-      "T2": "Marruecos",
-      "T3": "Suecia",
-      "T4": "Egipto",
-      "T5": "Curazao",
-      "G1": "Oyarzabal",
-      "G2": "Isak",
-      "G3": "Marmoush",
-      "G4": "Pedri",
-      "G5": "Luis Suárez col."
+      "NOMBRE": "MARKEL",
+      "PTS TOTALES": 88,
+      "PTS EQUIPOS": 68,
+      "PTS GOLEADORES": 20,
+      "T1": "Argentina",
+      "T2": "Portugal",
+      "T3": "Marruecos",
+      "T4": "Arabia Saudí",
+      "T5": "Haití",
+      "G1": "Julian Álvarez",
+      "G2": "Ferran Torres",
+      "G3": "Havertz",
+      "G4": "Olise",
+      "G5": "Leao"
     },
     {
       "NOMBRE": "Gaxan A",
@@ -130,19 +162,19 @@
       "G5": "Prom.David"
     },
     {
-      "NOMBRE": "Naroa H",
-      "PTS TOTALES": 82,
-      "PTS EQUIPOS": 57,
-      "PTS GOLEADORES": 25,
+      "NOMBRE": "AMAIA M",
+      "PTS TOTALES": 84,
+      "PTS EQUIPOS": 54,
+      "PTS GOLEADORES": 30,
       "T1": "España",
-      "T2": "Marruecos",
-      "T3": "Colombia",
-      "T4": "Qatar",
-      "T5": "Panamá",
+      "T2": "Egipto",
+      "T3": "Uruguay",
+      "T4": "Ghana",
+      "T5": "Qatar",
       "G1": "Oyarzabal",
-      "G2": "Olise",
-      "G3": "Julian Álvarez",
-      "G4": "Leao",
+      "G2": "De Bruyne",
+      "G3": "Leao",
+      "G4": "Salah",
       "G5": "Jackson"
     },
     {
@@ -162,22 +194,6 @@
       "G5": "Leao"
     },
     {
-      "NOMBRE": "MARKEL",
-      "PTS TOTALES": 78,
-      "PTS EQUIPOS": 58,
-      "PTS GOLEADORES": 20,
-      "T1": "Argentina",
-      "T2": "Portugal",
-      "T3": "Marruecos",
-      "T4": "Arabia Saudí",
-      "T5": "Haití",
-      "G1": "Julian Álvarez",
-      "G2": "Ferran Torres",
-      "G3": "Havertz",
-      "G4": "Olise",
-      "G5": "Leao"
-    },
-    {
       "NOMBRE": "Amaia I",
       "PTS TOTALES": 76,
       "PTS EQUIPOS": 61,
@@ -192,22 +208,6 @@
       "G3": "Cody Gakpo",
       "G4": "Luis Suárez col.",
       "G5": "Woltemade"
-    },
-    {
-      "NOMBRE": "AMAIA M",
-      "PTS TOTALES": 74,
-      "PTS EQUIPOS": 44,
-      "PTS GOLEADORES": 30,
-      "T1": "España",
-      "T2": "Egipto",
-      "T3": "Uruguay",
-      "T4": "Ghana",
-      "T5": "Qatar",
-      "G1": "Oyarzabal",
-      "G2": "De Bruyne",
-      "G3": "Leao",
-      "G4": "Salah",
-      "G5": "Jackson"
     },
     {
       "NOMBRE": "LUCIA B",
