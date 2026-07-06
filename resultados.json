@@ -883,41 +883,41 @@
     "fecha": "2026-07-04",
     "fase": "1/16",
     "local": "Canadá",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 3,
     "visitante": "Marruecos",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Marruecos",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-04",
     "fase": "1/16",
     "local": "Paraguay",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "Francia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Francia",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-05",
     "fase": "1/16",
     "local": "Brasil",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 2,
     "visitante": "Noruega",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Noruega",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-06",
     "fase": "1/16",
     "local": "México",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 3,
     "visitante": "Inglaterra",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Inglaterra",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-06",
@@ -956,6 +956,16 @@
     "gol_l": null,
     "gol_v": null,
     "visitante": "Colombia",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-09",
+    "fase": "Cuartos",
+    "local": "Francia",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Marruecos",
     "ganador": "",
     "estado": "TIMED"
   }
