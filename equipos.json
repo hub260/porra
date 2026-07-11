@@ -4,12 +4,39 @@
     "base": 10,
     "v_grupos": 3,
     "e_grupos": 0,
+    "rondas": 35,
+    "extra": 0,
+    "total": 44
+  },
+  {
+    "equipo": "España",
+    "base": 10,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 35,
+    "extra": 0,
+    "total": 42
+  },
+  {
+    "equipo": "Argentina",
+    "base": 8,
+    "v_grupos": 3,
+    "e_grupos": 0,
     "rondas": 25,
     "extra": 0,
     "total": 34
   },
   {
     "equipo": "Marruecos",
+    "base": 5,
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 25,
+    "extra": 0,
+    "total": 32
+  },
+  {
+    "equipo": "Suiza",
     "base": 5,
     "v_grupos": 2,
     "e_grupos": 1,
@@ -36,6 +63,15 @@
     "total": 31
   },
   {
+    "equipo": "Bélgica",
+    "base": 6,
+    "v_grupos": 1,
+    "e_grupos": 2,
+    "rondas": 25,
+    "extra": 0,
+    "total": 30
+  },
+  {
     "equipo": "México",
     "base": 5,
     "v_grupos": 3,
@@ -45,35 +81,8 @@
     "total": 24
   },
   {
-    "equipo": "Argentina",
-    "base": 8,
-    "v_grupos": 3,
-    "e_grupos": 0,
-    "rondas": 15,
-    "extra": 0,
-    "total": 24
-  },
-  {
     "equipo": "Brasil",
     "base": 8,
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 15,
-    "extra": 0,
-    "total": 22
-  },
-  {
-    "equipo": "España",
-    "base": 10,
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 15,
-    "extra": 0,
-    "total": 22
-  },
-  {
-    "equipo": "Suiza",
-    "base": 5,
     "v_grupos": 2,
     "e_grupos": 1,
     "rondas": 15,
@@ -97,15 +106,6 @@
     "rondas": 15,
     "extra": 0,
     "total": 21
-  },
-  {
-    "equipo": "Bélgica",
-    "base": 6,
-    "v_grupos": 1,
-    "e_grupos": 2,
-    "rondas": 15,
-    "extra": 0,
-    "total": 20
   },
   {
     "equipo": "Egipto",
