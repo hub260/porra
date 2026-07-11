@@ -3,15 +3,15 @@
     "goleador": "Messi",
     "equipo": "Argentina",
     "coste": 9,
-    "goles": 7,
-    "puntos": 35
+    "goles": 8,
+    "puntos": 40
   },
   {
     "goleador": "Mbappé",
     "equipo": "Francia",
     "coste": 10,
-    "goles": 7,
-    "puntos": 35
+    "goles": 8,
+    "puntos": 40
   },
   {
     "goleador": "Haaland",
@@ -28,16 +28,16 @@
     "puntos": 30
   },
   {
-    "goleador": "Vinicius",
-    "equipo": "Brasil",
-    "coste": 9,
-    "goles": 4,
-    "puntos": 20
-  },
-  {
     "goleador": "Dembélé",
     "equipo": "Francia",
     "coste": 8,
+    "goles": 5,
+    "puntos": 25
+  },
+  {
+    "goleador": "Vinicius",
+    "equipo": "Brasil",
+    "coste": 9,
     "goles": 4,
     "puntos": 20
   },
@@ -119,6 +119,20 @@
     "puntos": 15
   },
   {
+    "goleador": "Lukaku",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "De Ketelaere",
+    "equipo": "Bélgica",
+    "coste": 4,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
     "goleador": "Trossard",
     "equipo": "Bélgica",
     "coste": 5,
@@ -133,8 +147,8 @@
     "puntos": 10
   },
   {
-    "goleador": "Lukaku",
-    "equipo": "Bélgica",
+    "goleador": "Mikel Merino",
+    "equipo": "España",
     "coste": 5,
     "goles": 2,
     "puntos": 10
@@ -399,13 +413,6 @@
     "puntos": 0
   },
   {
-    "goleador": "Mikel Merino",
-    "equipo": "España",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
     "goleador": "Richarlison",
     "equipo": "Brasil",
     "coste": 5,
@@ -506,13 +513,6 @@
   {
     "goleador": "Dzeko",
     "equipo": "Bosnia",
-    "coste": 4,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "De Ketelaere",
-    "equipo": "Bélgica",
     "coste": 4,
     "goles": 0,
     "puntos": 0
