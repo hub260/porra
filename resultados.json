@@ -923,49 +923,89 @@
     "fecha": "2026-07-06",
     "fase": "1/16",
     "local": "Portugal",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "España",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "España",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-07",
     "fase": "1/16",
     "local": "USA",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 4,
     "visitante": "Bélgica",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Bélgica",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-07",
     "fase": "1/16",
     "local": "Argentina",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 3,
+    "gol_v": 2,
     "visitante": "Egipto",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argentina",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-07",
     "fase": "1/16",
     "local": "Suiza",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 4,
+    "gol_v": 3,
     "visitante": "Colombia",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Suiza",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-09",
     "fase": "Cuartos",
     "local": "Francia",
+    "gol_l": 2,
+    "gol_v": 0,
+    "visitante": "Marruecos",
+    "ganador": "Francia",
+    "estado": "FINISHED"
+  },
+  {
+    "fecha": "2026-07-10",
+    "fase": "Cuartos",
+    "local": "España",
+    "gol_l": 2,
+    "gol_v": 1,
+    "visitante": "Bélgica",
+    "ganador": "España",
+    "estado": "FINISHED"
+  },
+  {
+    "fecha": "2026-07-11",
+    "fase": "Cuartos",
+    "local": "Noruega",
     "gol_l": null,
     "gol_v": null,
-    "visitante": "Marruecos",
+    "visitante": "Inglaterra",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-12",
+    "fase": "Cuartos",
+    "local": "Argentina",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Suiza",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-14",
+    "fase": "Semis",
+    "local": "Francia",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "España",
     "ganador": "",
     "estado": "TIMED"
   }
