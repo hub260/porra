@@ -28,6 +28,13 @@
     "puntos": 30
   },
   {
+    "goleador": "Bellingham",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 6,
+    "puntos": 30
+  },
+  {
     "goleador": "Dembélé",
     "equipo": "Francia",
     "coste": 8,
@@ -42,13 +49,6 @@
     "puntos": 20
   },
   {
-    "goleador": "Oyarzabal",
-    "equipo": "España",
-    "coste": 9,
-    "goles": 4,
-    "puntos": 20
-  },
-  {
     "goleador": "Quiñones",
     "equipo": "México",
     "coste": 7,
@@ -56,29 +56,15 @@
     "puntos": 20
   },
   {
-    "goleador": "Bellingham",
-    "equipo": "Inglaterra",
-    "coste": 5,
+    "goleador": "Oyarzabal",
+    "equipo": "España",
+    "coste": 9,
     "goles": 4,
     "puntos": 20
   },
   {
-    "goleador": "Johnathan David",
-    "equipo": "Canadá",
-    "coste": 7,
-    "goles": 3,
-    "puntos": 15
-  },
-  {
     "goleador": "Undav",
     "equipo": "Alemania",
-    "coste": 5,
-    "goles": 3,
-    "puntos": 15
-  },
-  {
-    "goleador": "Cunha",
-    "equipo": "Brasil",
     "coste": 5,
     "goles": 3,
     "puntos": 15
@@ -91,23 +77,16 @@
     "puntos": 15
   },
   {
-    "goleador": "Balogun",
-    "equipo": "USA",
+    "goleador": "Lukaku",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Johnathan David",
+    "equipo": "Canadá",
     "coste": 7,
-    "goles": 3,
-    "puntos": 15
-  },
-  {
-    "goleador": "Cody Gakpo",
-    "equipo": "Holanda",
-    "coste": 5,
-    "goles": 3,
-    "puntos": 15
-  },
-  {
-    "goleador": "Havertz",
-    "equipo": "Alemania",
-    "coste": 5,
     "goles": 3,
     "puntos": 15
   },
@@ -119,8 +98,8 @@
     "puntos": 15
   },
   {
-    "goleador": "Lukaku",
-    "equipo": "Bélgica",
+    "goleador": "Havertz",
+    "equipo": "Alemania",
     "coste": 5,
     "goles": 3,
     "puntos": 15
@@ -133,15 +112,29 @@
     "puntos": 15
   },
   {
-    "goleador": "Trossard",
-    "equipo": "Bélgica",
+    "goleador": "Cunha",
+    "equipo": "Brasil",
     "coste": 5,
-    "goles": 2,
-    "puntos": 10
+    "goles": 3,
+    "puntos": 15
   },
   {
-    "goleador": "Barcola",
-    "equipo": "Francia",
+    "goleador": "Cody Gakpo",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Balogun",
+    "equipo": "USA",
+    "coste": 7,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
+    "goleador": "Trossard",
+    "equipo": "Bélgica",
     "coste": 5,
     "goles": 2,
     "puntos": 10
@@ -154,6 +147,20 @@
     "puntos": 10
   },
   {
+    "goleador": "Lautaro",
+    "equipo": "Argentina",
+    "coste": 9,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
+    "goleador": "Barcola",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 2,
+    "puntos": 10
+  },
+  {
     "goleador": "Yamal",
     "equipo": "España",
     "coste": 9,
@@ -161,36 +168,8 @@
     "puntos": 5
   },
   {
-    "goleador": "Isak",
-    "equipo": "Suecia",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Musiala",
+    "goleador": "Sané",
     "equipo": "Alemania",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Luis Díaz",
-    "equipo": "Colombia",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Rashford",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 1,
-    "puntos": 5
-  },
-  {
-    "goleador": "Depay",
-    "equipo": "Holanda",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -203,8 +182,43 @@
     "puntos": 5
   },
   {
-    "goleador": "Gyokeres",
-    "equipo": "Suecia",
+    "goleador": "Rashford",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Ramos",
+    "equipo": "Portugal",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Neymar",
+    "equipo": "Brasil",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Musiala",
+    "equipo": "Alemania",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Martinelli",
+    "equipo": "Brasil",
+    "coste": 8,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Luis Díaz",
+    "equipo": "Colombia",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -217,25 +231,46 @@
     "puntos": 5
   },
   {
-    "goleador": "Raphiña",
-    "equipo": "Brasil",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Lautaro",
+    "goleador": "Julian Álvarez",
     "equipo": "Argentina",
-    "coste": 9,
-    "goles": 0,
-    "puntos": 0
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
   },
   {
-    "goleador": "Martinelli",
-    "equipo": "Brasil",
-    "coste": 8,
-    "goles": 0,
-    "puntos": 0
+    "goleador": "Isak",
+    "equipo": "Suecia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Gyokeres",
+    "equipo": "Suecia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Désiré Doué",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Depay",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "De Bruyne",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
   },
   {
     "goleador": "Wright",
@@ -245,162 +280,8 @@
     "puntos": 0
   },
   {
-    "goleador": "James",
-    "equipo": "Colombia",
-    "coste": 7,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Duran",
-    "equipo": "Colombia",
-    "coste": 7,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Armando",
-    "equipo": "México",
-    "coste": 7,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Luis Suárez col.",
-    "equipo": "Colombia",
-    "coste": 6,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Bruno Fernandes",
-    "equipo": "Portugal",
-    "coste": 6,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Simons",
-    "equipo": "Holanda",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Núñez",
-    "equipo": "Uruguay",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Endrick",
-    "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Eze",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Doku",
-    "equipo": "Bélgica",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "De Bruyne",
-    "equipo": "Bélgica",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Sané",
+    "goleador": "Woltemade",
     "equipo": "Alemania",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Openda",
-    "equipo": "Bélgica",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Neto",
-    "equipo": "Portugal",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Sorloth",
-    "equipo": "Noruega",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Gordon",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Pulisic",
-    "equipo": "USA",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Mané",
-    "equipo": "Senegal",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Olise",
-    "equipo": "Francia",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Thuram",
-    "equipo": "Francia",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Foden",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Neymar",
-    "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Cole Palmer",
-    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 0,
     "puntos": 0
@@ -413,8 +294,8 @@
     "puntos": 0
   },
   {
-    "goleador": "Richarlison",
-    "equipo": "Brasil",
+    "goleador": "Williams",
+    "equipo": "España",
     "coste": 5,
     "goles": 0,
     "puntos": 0
@@ -427,57 +308,22 @@
     "puntos": 0
   },
   {
-    "goleador": "Julian Álvarez",
-    "equipo": "Argentina",
+    "goleador": "Thuram",
+    "equipo": "Francia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
   },
   {
-    "goleador": "Malen",
+    "goleador": "Sorloth",
+    "equipo": "Noruega",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Simons",
     "equipo": "Holanda",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Ramos",
-    "equipo": "Portugal",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Rogers",
-    "equipo": "Inglaterra",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Williams",
-    "equipo": "España",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Mateta",
-    "equipo": "Francia",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Olmo",
-    "equipo": "España",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Désiré Doué",
-    "equipo": "Francia",
     "coste": 5,
     "goles": 0,
     "puntos": 0
@@ -490,72 +336,30 @@
     "puntos": 0
   },
   {
-    "goleador": "Woltemade",
-    "equipo": "Alemania",
+    "goleador": "Rogers",
+    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 0,
     "puntos": 0
   },
   {
-    "goleador": "Igor Thiago",
+    "goleador": "Richarlison",
     "equipo": "Brasil",
     "coste": 5,
     "goles": 0,
     "puntos": 0
   },
   {
-    "goleador": "Ferran Torres",
-    "equipo": "España",
+    "goleador": "Raphiña",
+    "equipo": "Brasil",
+    "coste": 9,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Pulisic",
+    "equipo": "USA",
     "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Dzeko",
-    "equipo": "Bosnia",
-    "coste": 4,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Karl",
-    "equipo": "Alemania",
-    "coste": 3,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Obispo",
-    "equipo": "Curazao",
-    "coste": 2,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Floranus",
-    "equipo": "Curazao",
-    "coste": 2,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Noa Lang",
-    "equipo": "Holanda",
-    "coste": 2,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Marmoush",
-    "equipo": "Egipto",
-    "coste": 2,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Pedri",
-    "equipo": "España",
-    "coste": 2,
     "goles": 0,
     "puntos": 0
   },
@@ -574,9 +378,205 @@
     "puntos": 0
   },
   {
+    "goleador": "Pedri",
+    "equipo": "España",
+    "coste": 2,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Openda",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Olmo",
+    "equipo": "España",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Olise",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Obispo",
+    "equipo": "Curazao",
+    "coste": 2,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Núñez",
+    "equipo": "Uruguay",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Noa Lang",
+    "equipo": "Holanda",
+    "coste": 2,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Neto",
+    "equipo": "Portugal",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Mateta",
+    "equipo": "Francia",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Marmoush",
+    "equipo": "Egipto",
+    "coste": 2,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Mané",
+    "equipo": "Senegal",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Malen",
+    "equipo": "Holanda",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Luis Suárez col.",
+    "equipo": "Colombia",
+    "coste": 6,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Karl",
+    "equipo": "Alemania",
+    "coste": 3,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "James",
+    "equipo": "Colombia",
+    "coste": 7,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
     "goleador": "Jackson",
     "equipo": "Senegal",
     "coste": 1,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Igor Thiago",
+    "equipo": "Brasil",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Gordon",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Foden",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Floranus",
+    "equipo": "Curazao",
+    "coste": 2,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Ferran Torres",
+    "equipo": "España",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Eze",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Endrick",
+    "equipo": "Brasil",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Dzeko",
+    "equipo": "Bosnia",
+    "coste": 4,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Duran",
+    "equipo": "Colombia",
+    "coste": 7,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Doku",
+    "equipo": "Bélgica",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Cole Palmer",
+    "equipo": "Inglaterra",
+    "coste": 5,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Bruno Fernandes",
+    "equipo": "Portugal",
+    "coste": 6,
+    "goles": 0,
+    "puntos": 0
+  },
+  {
+    "goleador": "Armando",
+    "equipo": "México",
+    "coste": 7,
     "goles": 0,
     "puntos": 0
   }
