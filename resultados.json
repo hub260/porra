@@ -743,8 +743,8 @@
     "fecha": "2026-06-29",
     "fase": "1/32",
     "local": "Alemania",
-    "gol_l": 4,
-    "gol_v": 5,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Paraguay",
     "ganador": "Paraguay",
     "estado": "FINISHED"
@@ -753,8 +753,8 @@
     "fecha": "2026-06-30",
     "fase": "1/32",
     "local": "Holanda",
-    "gol_l": 3,
-    "gol_v": 4,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Marruecos",
     "ganador": "Marruecos",
     "estado": "FINISHED"
@@ -803,8 +803,8 @@
     "fecha": "2026-07-01",
     "fase": "1/32",
     "local": "Bélgica",
-    "gol_l": 3,
-    "gol_v": 2,
+    "gol_l": 1,
+    "gol_v": 0,
     "visitante": "Senegal",
     "ganador": "Bélgica",
     "estado": "FINISHED"
@@ -853,8 +853,8 @@
     "fecha": "2026-07-03",
     "fase": "1/32",
     "local": "Australia",
-    "gol_l": 3,
-    "gol_v": 5,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Egipto",
     "ganador": "Egipto",
     "estado": "FINISHED"
@@ -863,8 +863,8 @@
     "fecha": "2026-07-03",
     "fase": "1/32",
     "local": "Argentina",
-    "gol_l": 3,
-    "gol_v": 2,
+    "gol_l": 2,
+    "gol_v": 1,
     "visitante": "Cabo Verde",
     "ganador": "Argentina",
     "estado": "FINISHED"
@@ -953,8 +953,8 @@
     "fecha": "2026-07-07",
     "fase": "1/16",
     "local": "Suiza",
-    "gol_l": 4,
-    "gol_v": 3,
+    "gol_l": 0,
+    "gol_v": 0,
     "visitante": "Colombia",
     "ganador": "Suiza",
     "estado": "FINISHED"
@@ -983,21 +983,21 @@
     "fecha": "2026-07-11",
     "fase": "Cuartos",
     "local": "Noruega",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 0,
+    "gol_v": 1,
     "visitante": "Inglaterra",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Inglaterra",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-12",
     "fase": "Cuartos",
     "local": "Argentina",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 2,
+    "gol_v": 0,
     "visitante": "Suiza",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argentina",
+    "estado": "FINISHED"
   },
   {
     "fecha": "2026-07-14",
@@ -1006,6 +1006,16 @@
     "gol_l": null,
     "gol_v": null,
     "visitante": "España",
+    "ganador": "",
+    "estado": "TIMED"
+  },
+  {
+    "fecha": "2026-07-15",
+    "fase": "Semis",
+    "local": "Inglaterra",
+    "gol_l": null,
+    "gol_v": null,
+    "visitante": "Argentina",
     "ganador": "",
     "estado": "TIMED"
   }
