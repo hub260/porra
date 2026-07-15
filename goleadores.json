@@ -35,6 +35,13 @@
     "puntos": 30
   },
   {
+    "goleador": "Oyarzabal",
+    "equipo": "España",
+    "coste": 9,
+    "goles": 5,
+    "puntos": 25
+  },
+  {
     "goleador": "Dembélé",
     "equipo": "Francia",
     "coste": 8,
@@ -52,13 +59,6 @@
     "goleador": "Quiñones",
     "equipo": "México",
     "coste": 7,
-    "goles": 4,
-    "puntos": 20
-  },
-  {
-    "goleador": "Oyarzabal",
-    "equipo": "España",
-    "coste": 9,
     "goles": 4,
     "puntos": 20
   },
