@@ -1,5 +1,12 @@
 [
   {
+    "equipo": "España",
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 50,
+    "total": 57
+  },
+  {
     "equipo": "Francia",
     "v_grupos": 3,
     "e_grupos": 0,
@@ -12,13 +19,6 @@
     "e_grupos": 0,
     "rondas": 35,
     "total": 44
-  },
-  {
-    "equipo": "España",
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 35,
-    "total": 42
   },
   {
     "equipo": "Inglaterra",
