@@ -84,6 +84,13 @@
     "puntos": 15
   },
   {
+    "goleador": "Lautaro",
+    "equipo": "Argentina",
+    "coste": 9,
+    "goles": 3,
+    "puntos": 15
+  },
+  {
     "goleador": "Johnathan David",
     "equipo": "Canadá",
     "coste": 7,
@@ -143,13 +150,6 @@
     "goleador": "Mikel Merino",
     "equipo": "España",
     "coste": 5,
-    "goles": 2,
-    "puntos": 10
-  },
-  {
-    "goleador": "Lautaro",
-    "equipo": "Argentina",
-    "coste": 9,
     "goles": 2,
     "puntos": 10
   },
@@ -247,6 +247,13 @@
   {
     "goleador": "Gyokeres",
     "equipo": "Suecia",
+    "coste": 5,
+    "goles": 1,
+    "puntos": 5
+  },
+  {
+    "goleador": "Gordon",
+    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 1,
     "puntos": 5
@@ -492,13 +499,6 @@
   {
     "goleador": "Igor Thiago",
     "equipo": "Brasil",
-    "coste": 5,
-    "goles": 0,
-    "puntos": 0
-  },
-  {
-    "goleador": "Gordon",
-    "equipo": "Inglaterra",
     "coste": 5,
     "goles": 0,
     "puntos": 0
