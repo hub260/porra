@@ -1013,10 +1013,10 @@
     "fecha": "2026-07-15",
     "fase": "Semis",
     "local": "Inglaterra",
-    "gol_l": null,
-    "gol_v": null,
+    "gol_l": 1,
+    "gol_v": 2,
     "visitante": "Argentina",
-    "ganador": "",
-    "estado": "TIMED"
+    "ganador": "Argentina",
+    "estado": "FINISHED"
   }
 ]
