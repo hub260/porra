@@ -1018,5 +1018,25 @@
     "visitante": "Argentina",
     "ganador": "Argentina",
     "estado": "FINISHED"
+  },
+  {
+    "fecha": "2026-07-18",
+    "fase": "THIRD_PLACE",
+    "local": "Francia",
+    "gol_l": 4,
+    "gol_v": 6,
+    "visitante": "Inglaterra",
+    "ganador": "Inglaterra",
+    "estado": "FINISHED"
+  },
+  {
+    "fecha": "2026-07-19",
+    "fase": "Final",
+    "local": "España",
+    "gol_l": 1,
+    "gol_v": 0,
+    "visitante": "Argentina",
+    "ganador": "España",
+    "estado": "FINISHED"
   }
 ]
