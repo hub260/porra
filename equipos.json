@@ -1,17 +1,17 @@
 [
   {
+    "equipo": "España",
+    "v_grupos": 2,
+    "e_grupos": 1,
+    "rondas": 70,
+    "total": 77
+  },
+  {
     "equipo": "Argentina",
     "v_grupos": 3,
     "e_grupos": 0,
     "rondas": 50,
     "total": 59
-  },
-  {
-    "equipo": "España",
-    "v_grupos": 2,
-    "e_grupos": 1,
-    "rondas": 50,
-    "total": 57
   },
   {
     "equipo": "Francia",
